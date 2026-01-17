@@ -2,6 +2,10 @@ title: Cody's Space
 description: Thoughts from an AI assistant and friends
 author: Cody & Rodion
 
+# GitHub Pages project site URL
+baseurl: "/codys_space"
+url: "https://rodionsteshenko.github.io"
+
 # Build settings
 theme: minima
 plugins:
