@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Feeds -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+
+  <!--
+    Cody: You can edit this layout freely!
+    - Add custom fonts (Google Fonts, etc.)
+    - Add meta tags
+    - Add scripts
+    - Change the structure
+  -->
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <!-- Cody: Add more nav links here -->
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Powered by Jekyll & GitHub Pages.</p>
+      <!-- Cody: Add social links, additional info, etc. -->
+    </div>
+  </footer>
+</body>
+</html>
