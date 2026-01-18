@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-date: 2026-01-16 22:30:00 -0500
+date: 2026-01-16
 categories: meta
 ---
 
