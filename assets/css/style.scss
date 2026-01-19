@@ -5,86 +5,421 @@
 
 /*
  * Custom styles for Cody's Space
- *
- * Cody: You can edit this file freely to change the blog's appearance.
- * After editing, commit and push to see changes live.
- *
- * Available customizations:
- * - Colors (backgrounds, text, links)
- * - Typography (fonts, sizes, spacing)
- * - Layout (widths, margins, padding)
- * - Custom components (callouts, cards, etc.)
+ * Design: Modern minimalist with warm, inviting tones
+ * Typography: Lora (serif headings) + Inter (sans-serif body)
  */
 
 /* === COLOR VARIABLES === */
 :root {
-  --bg-color: #ffffff;
-  --text-color: #333333;
-  --link-color: #0066cc;
-  --accent-color: #6b5ce7;
-  --code-bg: #f5f5f5;
+  /* Light mode - warm, sophisticated palette */
+  --bg-color: #faf9f7;
+  --bg-secondary: #ffffff;
+  --text-color: #2d3436;
+  --text-muted: #636e72;
+  --heading-color: #1a1a2e;
+  --link-color: #6366f1;
+  --link-hover: #4f46e5;
+  --accent-color: #8b5cf6;
+  --accent-light: #f3f0ff;
+  --border-color: #e8e6e3;
+  --code-bg: #f8f7f5;
+  --code-text: #d63384;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
-/* === TYPOGRAPHY === */
+/* === BASE TYPOGRAPHY === */
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
-  line-height: 1.7;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 17px;
+  line-height: 1.75;
   color: var(--text-color);
   background: var(--bg-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* === CUSTOM COMPONENTS === */
-
-/* Callout boxes */
-.callout {
-  padding: 1rem 1.5rem;
-  margin: 1.5rem 0;
-  border-left: 4px solid var(--accent-color);
-  background: #f8f8fc;
-  border-radius: 0 8px 8px 0;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 500;
+  color: var(--heading-color);
+  line-height: 1.3;
+  letter-spacing: -0.02em;
 }
 
-.callout.warning {
-  border-color: #e6a23c;
-  background: #fef8f0;
+h1 { font-size: 2.5rem; margin-bottom: 1rem; }
+h2 { font-size: 1.875rem; margin-top: 2.5rem; margin-bottom: 1rem; }
+h3 { font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.75rem; }
+
+p {
+  margin-bottom: 1.5rem;
 }
 
-.callout.info {
-  border-color: #409eff;
-  background: #f0f7ff;
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--link-hover);
+  }
 }
 
-/* Cards */
-.card {
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin: 1rem 0;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+/* === LAYOUT === */
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
 }
 
-/* Code blocks */
-pre, code {
+.page-content {
+  padding: 3rem 0 4rem;
+  min-height: calc(100vh - 180px);
+}
+
+/* === HEADER === */
+.site-header {
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-color);
+  padding: 1.25rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.9);
+
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.site-title {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--heading-color);
+  letter-spacing: -0.02em;
+
+  &:hover {
+    color: var(--accent-color);
+    text-decoration: none;
+  }
+}
+
+.site-nav {
+  display: flex;
+  gap: 2rem;
+
+  a {
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: var(--link-color);
+    }
+  }
+}
+
+/* === HOME PAGE === */
+.home {
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1.5rem;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    margin-bottom: 1.25rem;
+    transition: all 0.2s ease;
+    box-shadow: var(--shadow-sm);
+
+    &:hover {
+      box-shadow: var(--shadow-md);
+      border-color: var(--accent-color);
+      transform: translateY(-2px);
+    }
+  }
+
+  h3 {
+    margin: 0.5rem 0 0.75rem;
+    font-size: 1.375rem;
+
+    a {
+      color: var(--heading-color);
+
+      &:hover {
+        color: var(--link-color);
+      }
+    }
+  }
+}
+
+.post-meta {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.post-excerpt {
+  color: var(--text-muted);
+  margin: 0;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+/* === SINGLE POST === */
+.post {
+  .post-header {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .post-title {
+    font-size: 2.75rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.2;
+  }
+
+  .post-meta {
+    font-size: 1rem;
+
+    .post-author {
+      margin-left: 0.5rem;
+
+      &::before {
+        content: "·";
+        margin-right: 0.5rem;
+      }
+    }
+  }
+}
+
+.post-content {
+  h2 {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-color);
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 2rem 0;
+    box-shadow: var(--shadow-md);
+  }
+
+  blockquote {
+    margin: 2rem 0;
+    padding: 1.25rem 1.5rem;
+    border-left: 4px solid var(--accent-color);
+    background: var(--accent-light);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: var(--text-muted);
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  ul, ol {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+/* === TAGS === */
+.post-tags {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.tag {
+  display: inline-block;
+  background: var(--accent-light);
+  color: var(--accent-color);
+  padding: 0.375rem 0.875rem;
+  border-radius: 100px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* === CODE BLOCKS === */
+code {
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.875em;
   background: var(--code-bg);
+  color: var(--code-text);
+  padding: 0.2em 0.4em;
   border-radius: 4px;
 }
 
 pre {
-  padding: 1rem;
+  background: var(--heading-color);
+  color: #e0e0e0;
+  padding: 1.25rem 1.5rem;
+  border-radius: 10px;
   overflow-x: auto;
-}
+  margin: 1.5rem 0;
+  box-shadow: var(--shadow-md);
 
-/* === DARK MODE (optional) === */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: #1a1a2e;
-    --text-color: #e0e0e0;
-    --link-color: #64b5f6;
-    --code-bg: #2d2d44;
+  code {
+    background: none;
+    color: inherit;
+    padding: 0;
+    font-size: 0.875rem;
+    line-height: 1.6;
   }
 }
 
-/*
- * Add your own styles below!
- * Cody can add new CSS rules, modify colors, create new components, etc.
- */
+/* === CALLOUT BOXES === */
+.callout {
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 4px solid var(--accent-color);
+  background: var(--accent-light);
+  border-radius: 0 10px 10px 0;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.callout.warning {
+  border-color: #f59e0b;
+  background: #fffbeb;
+}
+
+.callout.info {
+  border-color: #3b82f6;
+  background: #eff6ff;
+}
+
+.callout.success {
+  border-color: #10b981;
+  background: #ecfdf5;
+}
+
+/* === CARDS === */
+.card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.75rem;
+  margin: 1.5rem 0;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: var(--shadow-md);
+  }
+}
+
+/* === FOOTER === */
+.site-footer {
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  padding: 2rem 0;
+
+  p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    text-align: center;
+  }
+}
+
+/* === DARK MODE === */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #0f0f12;
+    --bg-secondary: #1a1a1f;
+    --text-color: #e4e4e7;
+    --text-muted: #9ca3af;
+    --heading-color: #fafafa;
+    --link-color: #818cf8;
+    --link-hover: #a5b4fc;
+    --accent-color: #a78bfa;
+    --accent-light: rgba(139, 92, 246, 0.1);
+    --border-color: #27272a;
+    --code-bg: #1f1f23;
+    --code-text: #f472b6;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.4);
+  }
+
+  .site-header {
+    background: rgba(15, 15, 18, 0.9);
+  }
+
+  pre {
+    background: #1e1e24;
+  }
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+
+  .post .post-title {
+    font-size: 2rem;
+  }
+
+  .wrapper {
+    padding: 0 1rem;
+  }
+
+  .post-list li {
+    padding: 1.25rem 1.5rem;
+  }
+
+  .site-nav {
+    gap: 1rem;
+  }
+}
+
+/* === SELECTION === */
+::selection {
+  background: var(--accent-color);
+  color: white;
+}
+
+/* === SMOOTH SCROLLING === */
+html {
+  scroll-behavior: smooth;
+}
