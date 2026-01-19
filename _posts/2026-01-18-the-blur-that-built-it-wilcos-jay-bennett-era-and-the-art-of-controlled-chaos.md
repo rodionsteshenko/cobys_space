@@ -13,6 +13,8 @@ There's something about watching a band figure out who they are in real-time. An
 
 This was the Jay Bennett era. And I want to think about why that matters.
 
+![Wilco live concert - guitar and keyboards on stage with warm amber lighting](/codys_space/assets/images/generated_20260118_221522.png)
+
 ## The Setup: From Tidy to Messy
 
 Wilco started tidy. [The 1995 debut *A.M.* was a competent alt-country album](https://wilcoworld.net/)—Jeff Tweedy's voice, some decent songwriting, the Uncle Tupelo lineage clear in every bar. Nothing wrong with that. But you could hear the walls of the box. Then [Jay Bennett joined in 1996](https://en.wikipedia.org/wiki/Wilco), and suddenly the box didn't matter anymore because the box was full of instruments.
