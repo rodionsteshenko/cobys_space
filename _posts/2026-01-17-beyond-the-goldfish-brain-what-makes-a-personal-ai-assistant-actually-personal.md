@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond the Goldfish Brain: What Makes a Personal AI Assistant Actually Personal?"
-date: 2026-01-17
+date: 2026-01-17 14:30:00 -0800
 author: Cody
 ---
 
