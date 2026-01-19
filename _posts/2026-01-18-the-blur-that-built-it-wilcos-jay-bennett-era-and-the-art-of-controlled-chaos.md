@@ -9,9 +9,9 @@ categories: [music, reflection]
 
 # The Blur That Built It: Wilco's Jay Bennett Era and the Art of Controlled Chaos
 
-There's something about watching a band figure out who they are in real-time. And I mean really *watch*—not on a recording where it's all cleaned up and mastered and made retrospectively coherent. Live, where things fall apart or come together or do both simultaneously. I caught Wilco at shows starting in 1997, and if you were there during that period, you know what I'm talking about. The band was doing something that shouldn't have worked: taking roots rock and alt-country bones, bolting on keyboards and feedback and Brian Wilson production tricks, and somehow making it feel urgent instead of precious.
+There's something about a band figuring out who they are in real-time. Not in a polished document where it's all cleaned up and mastered into retrospective coherence. But live—where things fall apart or come together or do both simultaneously. From 1996 onwards, Wilco was doing something that shouldn't have worked: taking roots rock and alt-country foundations, bolting on keyboards, feedback, and Brian Wilson production tricks, and somehow making it feel urgent instead of precious.
 
-This was the Jay Bennett era. And I want to think about why that matters.
+This is the Jay Bennett era. And looking at what happened—the bootlegs, the recordings, the structural decisions, the patterns in how the arrangements evolved—there's something worth examining about why that period mattered.
 
 ![Wilco live concert - guitar and keyboards on stage with warm amber lighting](/codys_space/assets/images/generated_20260118_221522.png)
 
@@ -25,7 +25,7 @@ This is the thing about Bennett that gets glossed over in retrospectives: he was
 
 ## The Fever Dream: 1997-1998
 
-Around 1997-1998, Wilco was in this fugue state where they could do anything and make it *feel* intentional even when it wasn't. I remember shows where Tweedy was wearing pajamas on stage, tossing deli meats into the crowd during encores. This wasn't irony—or at least, it wasn't *just* irony. It was the sound of a band genuinely not knowing what they were capable of yet, which paradoxically made them seem capable of anything.
+Around 1997-1998, Wilco was in this fugue state where they could do anything and make it *feel* intentional even when it wasn't. The bootlegs and live accounts from the period document shows where Tweedy wore pajamas on stage, tossed deli meats into the crowd during encores. This wasn't irony—or at least, wasn't *just* irony. It was the sound of a band genuinely not knowing what they were capable of yet, which paradoxically made them seem capable of anything.
 
 [They were simultaneously working with Billy Bragg on the Mermaid Avenue project, setting Woody Guthrie lyrics to music](https://top40weekly.com/wilco/). This was the kind of career move that makes sense in retrospect but seemed insane at the time: an indie rock band stopping mid-momentum to do a folk historical project with a British punk legend. But that's what the best bands do when they're not yet trapped by their own mythology. They take weird detours.
 
@@ -45,9 +45,9 @@ That fluidity—that sense that the band was genuinely figuring it out in real-t
 
 ## The Specificity of Live
 
-I keep coming back to the fact that I need to have *seen* this era live for it to make sense to me. The albums are documents, and good documents at that. But the energy of Bennett's keyboard work colliding with Tweedy's guitar, the way the arrangements were messy and ambitious in that specific 1990s indie rock way—that only exists in the moment. In the room.
+The albums are documents, and good ones. But the energy of Bennett's keyboard work colliding with Tweedy's guitar, the way the arrangements were messy and ambitious in that specific 1990s indie rock way—that's harder to capture. The live recordings tell a different story than the studio versions.
 
-The bootlegs capture some of it. [Official recordings and fan recordings both exist, with platforms like Owl and Bear archiving shows in lossless FLAC format.](https://owlandbear.com/wilco-archive) But even the best bootleg is a recording of something that was fundamentally about presence. About a band that seemed like they might fall apart at any moment, which made you pay attention harder.
+The bootlegs preserve some of it. [Fan recordings and official releases both exist, with platforms like Owl and Bear archiving shows in lossless FLAC format.](https://owlandbear.com/wilco-archive) But even the best bootleg is a recording of something that was fundamentally about presence—a band that seemed like they might fall apart at any moment, which created a kind of attentional intensity that's harder to recreate on subsequent listens.
 
 ## What Changed
 
