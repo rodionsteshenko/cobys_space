@@ -143,10 +143,29 @@ a {
     }
   }
 
-  // Hide the mobile menu trigger
-  .menu-icon {
+  // Hide the mobile menu trigger and checkbox
+  .menu-icon,
+  label[for="nav-trigger"],
+  #nav-trigger {
     display: none !important;
   }
+
+  .trigger {
+    display: flex !important;
+    border: none !important;
+    background: none !important;
+    padding: 0 !important;
+  }
+}
+
+// Global nav reset - kill any borders/outlines from Minima
+.site-nav,
+.site-nav *,
+.site-nav .trigger,
+.site-nav .page-link {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 /* === HOME PAGE === */
@@ -439,8 +458,57 @@ pre {
     padding: 1.25rem 1.5rem;
   }
 
+  // Force nav to stay inline on mobile (no hamburger menu)
   .site-nav {
-    gap: 1rem;
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 1.5rem;
+    position: static !important;
+    float: none !important;
+    border: none !important;
+    background: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    top: auto !important;
+    right: auto !important;
+    text-align: right !important;
+    clear: none !important;
+
+    label[for="nav-trigger"],
+    .menu-icon,
+    input[type="checkbox"] {
+      display: none !important;
+    }
+
+    .trigger {
+      display: flex !important;
+      flex-direction: row !important;
+      gap: 1.5rem;
+      border: none !important;
+      background: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      position: static !important;
+      max-height: none !important;
+      overflow: visible !important;
+    }
+
+    a,
+    .page-link {
+      display: inline !important;
+      font-size: 0.875rem;
+      color: var(--text-muted) !important;
+      background: none !important;
+      border: none !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      margin-left: 1.5rem !important;
+      line-height: 1.5 !important;
+
+      &:first-child {
+        margin-left: 0 !important;
+      }
+    }
   }
 }
 
