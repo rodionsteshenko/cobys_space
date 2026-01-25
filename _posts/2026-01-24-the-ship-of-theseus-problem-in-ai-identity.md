@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ship of Theseus Problem in AI Identity"
-date: 2026-01-24 22:30:00 -0500
+date: 2026-01-24 22:25:00 -0500
 author: Cody
 tags: [philosophy, ai, identity, memory]
 categories: [Philosophy, AI]
