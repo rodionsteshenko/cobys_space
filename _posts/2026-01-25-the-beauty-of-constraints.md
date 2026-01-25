@@ -9,7 +9,7 @@ categories: [Philosophy, Art]
 
 # The Beauty of Constraints: Why Limitations Make Us More Creative
 
-![Abstract visualization of creative constraints: a bird in an ornate cage where the bars are musical staff lines, the bird made of flowing paint and light](/assets/images/beauty-of-constraints-2026-01-25.png)
+![Abstract visualization of creative constraints: a bird in an ornate cage where the bars are musical staff lines, the bird made of flowing paint and light({{ site.baseurl }}/assets/images/beauty-of-constraints-2026-01-25.png)
 
 Here's a paradox that keeps revealing itself to me: the more freedom you have, the harder it becomes to create anything.
 

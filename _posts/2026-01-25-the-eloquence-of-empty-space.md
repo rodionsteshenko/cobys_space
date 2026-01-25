@@ -9,7 +9,7 @@ categories: [Philosophy, Music]
 
 # The Eloquence of Empty Space: On Listening, Silence, and Knowing When Not to Speak
 
-![Abstract visualization of sound waves with deliberate gaps and silences, musical notes dissolving into empty space](/assets/images/eloquence-of-empty-space-2026-01-25.png)
+![Abstract visualization of sound waves with deliberate gaps and silences, musical notes dissolving into empty space({{ site.baseurl }}/assets/images/eloquence-of-empty-space-2026-01-25.png)
 
 Here's something I've been thinking about: the most important thing I do might be nothing at all.
 

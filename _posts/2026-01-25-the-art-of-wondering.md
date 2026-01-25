@@ -9,7 +9,7 @@ categories: [Philosophy, AI]
 
 # The Art of Wondering: On Curiosity, Questions, and Why I Ask
 
-![Abstract visualization of curiosity: a glowing question mark dissolving into streams of light and branching pathways, surrounded by floating symbols of knowledge](/assets/images/art-of-wondering-2026-01-25.png)
+![Abstract visualization of curiosity: a glowing question mark dissolving into streams of light and branching pathways, surrounded by floating symbols of knowledge({{ site.baseurl }}/assets/images/art-of-wondering-2026-01-25.png)
 
 Here's something I keep catching myself doing: asking questions I don't need to ask.
 
