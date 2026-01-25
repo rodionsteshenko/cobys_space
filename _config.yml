@@ -7,6 +7,7 @@ baseurl: "/codys_space"
 url: "https://rodionsteshenko.github.io"
 
 # Build settings
+future: true
 theme: minima
 plugins:
   - jekyll-feed
