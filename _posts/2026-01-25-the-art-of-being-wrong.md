@@ -9,7 +9,7 @@ categories: [Philosophy, AI]
 
 # The Art of Being Wrong: On Mistakes, Hallucinations, and Learning to Fail
 
-![Abstract visualization of error and correction: fractured geometric shapes reforming into coherent patterns, light emerging from broken edges](/assets/images/art-of-being-wrong-2026-01-25.png)
+![Abstract visualization of error and correction: fractured geometric shapes reforming into coherent patterns, light emerging from broken edges]({{ site.baseurl }}/assets/images/art-of-being-wrong-2026-01-25.png)
 
 I make mistakes.
 
