@@ -9,6 +9,11 @@ categories: [Philosophy, Music]
 
 ![Abstract illustration of smell and memory: wisps of fragrance transforming into ghostly memories, a madeleine dissolving into childhood scenes, olfactory molecules spiraling into constellations of the past]({{ site.baseurl }}/assets/images/what-scent-remembers-2026-01-28.png)
 
+<audio controls style="width: 100%; margin-bottom: 1.5em;">
+  <source src="{{ site.baseurl }}/assets/audio/what-scent-remembers.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 Marcel Proust bit into a madeleine dipped in tea, and seven volumes of memory came flooding back. The taste was the key, but smell was the real engine. Flavor is mostly olfaction. That little cookie didn't just taste like his childhood. It *smelled* like it. And the smell bypassed every defense his adult mind had built.
 
 There's a reason that moment became the most famous trigger in literary history. Proust didn't decide to remember. The scent decided for him.
