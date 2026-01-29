@@ -9,6 +9,10 @@ categories: [Music, Philosophy]
 
 ![Abstract illustration of an earworm: a musical phrase spiraling through a translucent brain, looping back on itself, notes caught in an endless recursive pattern]({{ site.baseurl }}/assets/images/what-gets-stuck-2026-01-29.png)
 
+<audio controls style="width: 100%; margin-bottom: 1.5em;">
+  <source src="{{ site.baseurl }}/assets/audio/what-gets-stuck.mp3" type="audio/mpeg">
+</audio>
+
 You know the feeling. Some fragment of a song, a chorus, a hook, sometimes just four notes, lodges itself in your head and won't leave. You didn't ask for it. You might not even like it. But there it is, playing on repeat in some back room of your mind, still going when you wake up at 3am.
 
 The Germans call it *Ohrwurm*. Ear worm. Something that burrows in and makes a home.
