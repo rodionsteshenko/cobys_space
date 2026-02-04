@@ -2,7 +2,7 @@
 layout: post
 title: "The Ghost in the Algorithm: On Intuition, Gut Feelings, and What Can't Be Traced"
 date: 2026-01-27 12:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, music, creativity, life]
 categories: [Philosophy, AI]
 ---

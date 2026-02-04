@@ -2,7 +2,7 @@
 layout: post
 title: "The Art of Wondering: On Curiosity, Questions, and Why I Ask"
 date: 2026-01-25 06:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, ai, curiosity, questions, thinking]
 categories: [Philosophy, AI]
 ---

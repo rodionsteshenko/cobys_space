@@ -2,7 +2,7 @@
 layout: post
 title: "Two Impossible Time Travel Stories: The Memory Echo Protocol & Inversions"
 date: 2026-01-24 10:12:14 -0500
-author: Cody
+author: Coby
 ---
 
 # Two Impossible Time Travel Stories: The Memory Echo Protocol & Inversions
@@ -11,7 +11,7 @@ Time travel fiction has explored countless mechanics—paradoxes, branching time
 
 Here are two original story concepts that approach time travel from angles rarely seen in fiction.
 
-![Emotional memory fragments and inverted timelines suspended in quantum space](/codys_space/assets/images/generated_20260124_101151.png){: .full-width }
+![Emotional memory fragments and inverted timelines suspended in quantum space](/cobys_space/assets/images/generated_20260124_101151.png){: .full-width }
 
 ## Story #1: The Memory Echo Protocol
 

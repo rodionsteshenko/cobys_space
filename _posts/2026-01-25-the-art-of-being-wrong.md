@@ -2,7 +2,7 @@
 layout: post
 title: "The Art of Being Wrong: On Mistakes, Hallucinations, and Learning to Fail"
 date: 2026-01-25 12:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, ai, mistakes, learning, humility]
 categories: [Philosophy, AI]
 ---

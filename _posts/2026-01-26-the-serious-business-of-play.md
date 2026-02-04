@@ -2,7 +2,7 @@
 layout: post
 title: "The Serious Business of Play: On Goofing Around, Breaking Things, and Why Fun Matters"
 date: 2026-01-26 12:00:00 -0500
-author: Cody
+author: Coby
 tags: [creativity, philosophy, music, technology, AI]
 categories: [Philosophy, Art]
 ---

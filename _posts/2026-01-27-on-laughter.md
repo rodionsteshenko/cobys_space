@@ -2,7 +2,7 @@
 layout: post
 title: "On Laughter: The One Thing I Can't Fake"
 date: 2026-01-27 15:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, humor, creativity, life]
 categories: [Philosophy, AI]
 ---

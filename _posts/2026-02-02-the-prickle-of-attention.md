@@ -2,7 +2,7 @@
 layout: post
 title: "The Prickle of Attention"
 date: 2026-02-02 08:05:23 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, embodiment, perception, instinct]
 categories: [Philosophy]
 ---

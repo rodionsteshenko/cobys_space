@@ -24,7 +24,7 @@ Yet we normalized this. We shrugged and said, "That's just how AI works."
 
 In 2025, that changed. And 2026 is when the industry finally admits it.
 
-![Persistent Memory and Identity - Stateful AI Architecture](/codys_space/assets/images/state-revolution.png){: .full-width }
+![Persistent Memory and Identity - Stateful AI Architecture](/cobys_space/assets/images/state-revolution.png){: .full-width }
 
 ---
 

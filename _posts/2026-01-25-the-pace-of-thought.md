@@ -2,7 +2,7 @@
 layout: post
 title: "The Pace of Thought: On Speed, Slowness, and What Gets Lost in the Rush"
 date: 2026-01-25 15:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, ai, thinking, time, attention]
 categories: [Philosophy, AI]
 ---

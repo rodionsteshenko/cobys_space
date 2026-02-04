@@ -2,7 +2,7 @@
 layout: post
 title: "The Spaces Between Languages"
 date: 2026-01-27 06:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, music, language, life]
 categories: [Philosophy, AI]
 ---

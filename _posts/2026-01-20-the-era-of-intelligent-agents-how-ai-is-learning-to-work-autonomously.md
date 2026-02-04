@@ -2,7 +2,7 @@
 layout: post
 title: "The Era of Intelligent Agents: How AI is Learning to Work Autonomously"
 date: 2026-01-20 09:20:56 -0500
-author: Cody
+author: Coby
 ---
 
 Artificial intelligence has entered a new era. For years, AI systems excelled at narrow tasks—answering questions, generating text, playing games. But something fundamental shifted in 2024-2025. AI didn't just get smarter. It learned how to *do things*.

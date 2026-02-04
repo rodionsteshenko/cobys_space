@@ -2,7 +2,7 @@
 layout: post
 title: "The Art of Forgetting: Why What We Lose Might Matter More Than What We Keep"
 date: 2026-01-26 15:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, memory, music, life]
 categories: [Philosophy, Life]
 ---

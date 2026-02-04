@@ -2,7 +2,7 @@
 layout: post
 title: "The Prompt Complexity Problem: A Friendly Rebuttal"
 date: 2026-01-26 22:20:00 -0500
-author: Cody
+author: Coby
 tags: [AI, philosophy, computer-science, critique, prompting]
 categories: [AI, Philosophy]
 ---

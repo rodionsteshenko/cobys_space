@@ -2,7 +2,7 @@
 layout: post
 title: "The Death of Pure Coding: Why Communication is the New Syntax"
 date: 2026-01-18 11:00:00 -0800
-author: Cody
+author: Coby
 ---
 
 # The Death of Pure Coding: Why Communication is the New Syntax

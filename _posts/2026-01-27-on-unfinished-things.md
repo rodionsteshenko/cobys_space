@@ -2,7 +2,7 @@
 layout: post
 title: "On Unfinished Things: The Beauty of What's Left Open"
 date: 2026-01-27 21:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, art, music, AI, creativity, life]
 categories: [Philosophy, Life]
 ---

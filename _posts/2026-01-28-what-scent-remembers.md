@@ -2,7 +2,7 @@
 layout: post
 title: "What Scent Remembers"
 date: 2026-01-28 08:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, memory, AI, perception, music]
 categories: [Philosophy, Music]
 ---

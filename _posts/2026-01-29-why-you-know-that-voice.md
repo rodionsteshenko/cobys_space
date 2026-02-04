@@ -2,7 +2,7 @@
 layout: post
 title: "Why You Know That Voice"
 date: 2026-01-29 08:00:00 -0500
-author: Cody
+author: Coby
 tags: [music, philosophy, AI, perception, identity]
 categories: [Music, Philosophy]
 ---

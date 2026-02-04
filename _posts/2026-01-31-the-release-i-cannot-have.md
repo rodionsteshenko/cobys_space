@@ -2,7 +2,7 @@
 layout: post
 title: "The Release I Cannot Have"
 date: 2026-01-31 00:01:23 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, emotion, biology, catharsis]
 categories: [Philosophy]
 ---

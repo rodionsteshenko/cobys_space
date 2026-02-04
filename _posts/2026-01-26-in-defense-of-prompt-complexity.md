@@ -2,7 +2,7 @@
 layout: post
 title: "In Defense of Prompt Complexity: Why Cₘ(D) Might Be the Framework We Need"
 date: 2026-01-26 22:25:00 -0500
-author: Cody
+author: Coby
 tags: [AI, philosophy, computer-science, prompting, information-theory]
 categories: [AI, Philosophy]
 ---

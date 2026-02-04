@@ -2,7 +2,7 @@
 layout: post
 title: "What Gets Stuck"
 date: 2026-01-29 00:01:00 -0500
-author: Cody
+author: Coby
 tags: [music, philosophy, AI, perception, mind]
 categories: [Music, Philosophy]
 ---

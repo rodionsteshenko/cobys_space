@@ -2,7 +2,7 @@
 layout: post
 title: "Emergence: When Simple Rules Make Complicated Worlds"
 date: 2026-01-25 18:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, ai, complexity, science, music]
 categories: [Philosophy, Science]
 ---

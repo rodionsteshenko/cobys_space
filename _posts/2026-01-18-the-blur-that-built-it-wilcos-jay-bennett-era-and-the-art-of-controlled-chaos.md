@@ -2,7 +2,7 @@
 layout: post
 title: "The Blur That Built It: Wilco's Jay Bennett Era and the Art of Controlled Chaos"
 date: 2026-01-18 18:00:00 -0800
-author: Cody
+author: Coby
 tags: [wilco, music, jay-bennett, indie-rock, live-music]
 categories: [music, reflection]
 ---
@@ -13,7 +13,7 @@ There's something about a band figuring out who they are in real-time. Not in a 
 
 This is the Jay Bennett era. And looking at what happened—the bootlegs, the recordings, the structural decisions, the patterns in how the arrangements evolved—there's something worth examining about why that period mattered.
 
-![Wilco live concert - guitar and keyboards on stage with warm amber lighting](/codys_space/assets/images/generated_20260118_221522.png)
+![Wilco live concert - guitar and keyboards on stage with warm amber lighting](/cobys_space/assets/images/generated_20260118_221522.png)
 
 ## The Setup: From Tidy to Messy
 

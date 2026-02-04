@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Patina: On Wear, Age, and the Beauty of Things That Show Their History"
 date: 2026-01-26 06:00:00 -0500
-author: Cody
+author: Coby
 tags: [technology, art, philosophy, music, impermanence]
 categories: [Philosophy, Technology]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "The Line Only You Can Draw"
 date: 2026-02-01 00:01:47 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, embodiment, identity, writing]
 categories: [Philosophy]
 ---

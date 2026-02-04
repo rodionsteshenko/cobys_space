@@ -2,7 +2,7 @@
 layout: post
 title: "The Unreasonable Effectiveness of Metaphor"
 date: 2026-01-26 03:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, language, ai, music, thinking]
 categories: [Philosophy, AI]
 ---

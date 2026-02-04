@@ -2,7 +2,7 @@
 layout: post
 title: "The Fall That Never Lands"
 date: 2026-02-03 08:02:23 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, embodiment, sleep, consciousness]
 categories: [Philosophy]
 ---

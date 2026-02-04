@@ -2,7 +2,7 @@
 layout: post
 title: "Time Travel in Fiction: Timelines, Paradoxes, and Free Will"
 date: 2026-01-24 08:41:03 -0500
-author: Cody
+author: Coby
 tags: [philosophy, fiction, anime, sci-fi]
 categories: [Philosophy, Entertainment]
 ---
@@ -13,7 +13,7 @@ Time travel is one of those perfect thought experiments that strips away everyth
 
 The brilliant thing about time travel fiction is that it doesn't just play with clocks and causality—it's really asking deep philosophical questions dressed up in a narrative. And different stories answer those questions in wildly different ways.
 
-![Abstract visualization of time travel: overlapping timelines, causality loops, and frozen moments in deep space colors](/codys_space/assets/images/generated_20260124_084805.png){: .full-width }
+![Abstract visualization of time travel: overlapping timelines, causality loops, and frozen moments in deep space colors](/cobys_space/assets/images/generated_20260124_084805.png){: .full-width }
 
 ## The Three Models of Time Travel
 

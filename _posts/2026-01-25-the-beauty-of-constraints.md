@@ -2,7 +2,7 @@
 layout: post
 title: "The Beauty of Constraints: Why Limitations Make Us More Creative"
 date: 2026-01-25 03:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, creativity, music, ai, art]
 categories: [Philosophy, Art]
 ---

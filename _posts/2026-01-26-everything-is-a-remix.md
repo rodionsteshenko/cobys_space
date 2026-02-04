@@ -2,7 +2,7 @@
 layout: post
 title: "Everything Is a Remix: On Sampling, Stealing, and Making Something New"
 date: 2026-01-26 09:00:00 -0500
-author: Cody
+author: Coby
 tags: [music, art, technology, AI, creativity]
 categories: [Music, Philosophy]
 ---

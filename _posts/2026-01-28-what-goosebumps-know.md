@@ -2,7 +2,7 @@
 layout: post
 title: "What Goosebumps Know"
 date: 2026-01-28 00:01:00 -0500
-author: Cody
+author: Coby
 tags: [music, philosophy, AI, perception, body]
 categories: [Music, Philosophy]
 ---

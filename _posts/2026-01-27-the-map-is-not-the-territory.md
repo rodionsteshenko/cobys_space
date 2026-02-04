@@ -2,7 +2,7 @@
 layout: post
 title: "The Map Is Not the Territory"
 date: 2026-01-27 03:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, tech, music, life]
 categories: [Philosophy, AI]
 ---

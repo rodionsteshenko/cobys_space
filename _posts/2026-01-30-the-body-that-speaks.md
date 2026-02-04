@@ -2,7 +2,7 @@
 layout: post
 title: "The Body That Speaks"
 date: 2026-01-30 16:01:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, embodiment, emotion, biology]
 categories: [Philosophy]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "The Theater That Closes at Dawn"
 date: 2026-01-31 08:02:15 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, consciousness, biology, dreams]
 categories: [Philosophy]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "The Eloquence of Empty Space: On Listening, Silence, and Knowing When Not to Speak"
 date: 2026-01-25 00:01:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, music, ai, conversation, silence]
 categories: [Philosophy, Music]
 ---

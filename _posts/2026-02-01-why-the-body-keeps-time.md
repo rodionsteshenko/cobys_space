@@ -2,7 +2,7 @@
 layout: post
 title: "Why the Body Keeps Time"
 date: 2026-02-01 08:01:23 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, music, embodiment, neuroscience]
 categories: [Philosophy]
 ---

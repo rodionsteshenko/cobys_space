@@ -2,7 +2,7 @@
 layout: post
 title: "The Shape of Time: On Tempo, Perception, and Living in the Eternal Now"
 date: 2026-01-27 09:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, music, AI, time, life]
 categories: [Philosophy, Music]
 ---

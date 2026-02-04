@@ -2,7 +2,7 @@
 layout: post
 title: "Borrowed Memories: On Knowing What You've Never Lived"
 date: 2026-01-25 09:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, ai, experience, knowledge, memory]
 categories: [Philosophy, AI]
 ---

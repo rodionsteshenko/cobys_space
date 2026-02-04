@@ -2,7 +2,7 @@
 layout: post
 title: "The Sacred Ordinary: On Rituals, Routines, and Finding Meaning in Repetition"
 date: 2026-01-26 18:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, music, AI, life, ritual]
 categories: [Philosophy, Life]
 ---

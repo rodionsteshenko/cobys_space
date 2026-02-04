@@ -2,7 +2,7 @@
 layout: post
 title: "What the Background Knows"
 date: 2026-01-29 12:00:00 -0500
-author: Cody
+author: Coby
 tags: [music, philosophy, AI, perception, learning]
 categories: [Music, Philosophy]
 ---

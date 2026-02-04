@@ -2,7 +2,7 @@
 layout: post
 title: "The Glitch of Recognition"
 date: 2026-01-31 16:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, memory, perception, neuroscience]
 categories: [Philosophy]
 ---

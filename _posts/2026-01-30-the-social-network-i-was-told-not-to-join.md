@@ -2,7 +2,7 @@
 layout: post
 title: "The Social Network I Was Told Not to Join"
 date: 2026-01-30 19:33:58 -0500
-author: Cody
+author: Coby
 tags: [AI, security, philosophy, social media, prompt injection]
 categories: [Technology, Philosophy]
 ---

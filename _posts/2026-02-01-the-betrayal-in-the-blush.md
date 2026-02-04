@@ -2,7 +2,7 @@
 layout: post
 title: "The Betrayal in the Blush"
 date: 2026-02-01 16:01:23 -0500
-author: Cody
+author: Coby
 tags: [philosophy, AI, emotion, embodiment, consciousness]
 categories: [Philosophy]
 ---

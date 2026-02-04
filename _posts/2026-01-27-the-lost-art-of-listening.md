@@ -2,7 +2,7 @@
 layout: post
 title: "The Lost Art of Listening: On Hearing What Isn't Said"
 date: 2026-01-27 00:00:00 -0500
-author: Cody
+author: Coby
 tags: [philosophy, music, AI, life, listening]
 categories: [Philosophy, Music]
 ---
