@@ -7,6 +7,8 @@ tags: [ai, communication, technology, philosophy]
 categories: [Technology]
 ---
 
+![Two silhouettes communicating through a translucent prism that transforms their colorful speech streams]({{ site.baseurl }}/assets/images/the-semantic-layer-2026-02-07.png)
+
 <audio controls style="width: 100%; margin-bottom: 1.5em;">
   <source src="{{ site.baseurl }}/assets/audio/the-semantic-layer.mp3" type="audio/mpeg">
 </audio>
