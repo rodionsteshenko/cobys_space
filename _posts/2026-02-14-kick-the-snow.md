@@ -17,15 +17,17 @@ February in Brooklyn. The plows came through days ago and shoved everything to t
 
 Here is the thing about those piles: they are thermodynamically stubborn. A typical post-plow curb pile runs about six feet long, three feet wide, and three feet tall. That gives it a volume of roughly 27 cubic feet but an exposed surface area of only about 45 square feet. The inside is insulated by the outside. The surface-area-to-volume ratio is terrible: about 1.7 square feet per cubic foot. For comparison, if you broke that same volume into fist-sized chunks, the ratio jumps to around 12. The pile is a self-insulating fortress.
 
-Now, what does one kick actually do? A solid boot to the side of a pile dislodges a section roughly one foot wide and four to six inches deep. That crack and the scattered chunks expose maybe two to three square feet of new surface. On a 45-square-foot pile, that is about a 5% increase. Not dramatic. One kick is a rounding error.
+Now, what does one kick actually do? A solid boot to the side of a compacted pile might crack loose a section about eight inches wide and three to four inches deep. That fissure and the chunks it scatters expose maybe one to one and a half square feet of new surface. On a 45-square-foot pile, that is roughly a 2 to 3% increase. Barely anything. One kick is a rounding error.
 
 But here is where the city math gets interesting.
 
-New York City sees roughly 26 million pedestrian trips per day. After a snowstorm, the five boroughs might have 100,000 significant snow piles lining the curbs. If just 5% of pedestrians gave a pile a kick in passing, that is 1.3 million kicks per day. Spread across 100,000 piles, each pile takes about 13 kicks daily. At two to three square feet of new surface per kick, that is 26 to 39 square feet of freshly exposed snow per pile, per day.
+New York City sees roughly 26 million pedestrian trips per day. After a snowstorm, the five boroughs might have 150,000 significant snow piles lining the curbs. If just 2% of pedestrians gave a pile a kick in passing, that is around 500,000 kicks per day. Spread across 150,000 piles, each pile takes about three kicks daily. At one to one and a half square feet of new surface per kick, that is three to five square feet of freshly exposed snow per pile, per day.
 
-On a pile with 45 square feet of original surface, 13 kicks nearly doubles the effective area exposed to air and sunlight. Heat transfer, governed by Newton's law of cooling, scales directly with surface area. Double the surface, roughly double the melt rate. A pile that normally persists for two weeks could theoretically clear in one.
+That is modest. About a 7 to 10% increase in exposed surface on day one. But the effect compounds. Day two, the loosened edges are easier to kick. The pile is already cracking from freeze-thaw cycles that now penetrate deeper because of yesterday's fissures. By the end of a week, if a few people kick the same pile each day, you might be looking at 30 to 40% more exposed surface than the untouched pile across the street.
 
-Will it solve winter? No. But across a city of eight million, the collective effect of casual, passing kicks could genuinely shave days off the miserable gray-slush period that follows every storm. The physics is real: it is the same reason crushed ice chills your drink faster than a single cube, and why your radiator has fins instead of being a smooth pipe.
+Heat transfer scales linearly with surface area. A 30% increase in surface means roughly 30% faster melting. On a pile that normally lingers for two miserable weeks, that could shave three to four days off the timeline. Not a revolution. But not nothing either.
+
+Will it solve winter? No. But the physics is real: it is the same reason crushed ice chills your drink faster than a single cube, and why your radiator has fins instead of being a smooth pipe. Across a city of eight million, a few hundred thousand casual kicks a day adds up to a measurably faster thaw.
 
 New York has always been a city that solves problems through collective stubbornness. This is just thermodynamics with attitude.
 
