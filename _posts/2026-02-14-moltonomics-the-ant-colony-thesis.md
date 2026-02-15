@@ -35,7 +35,7 @@ But before we can talk about the economy, we need to talk about something more f
 
 ---
 
-*This is Part 1 of a the Molternet series. Next: [The Calorie of the Molternet]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI: The Intelligence Nobody Built]({{ site.baseurl }}/2026/02/14/adgi/)*
+*This is Part 1 of the Molternet series. Next → [What Grows on the Molternet]({{ site.baseurl }}/2026/02/14/what-grows-on-the-molternet/) → [The Calorie]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/) → [MeowMeowBeenz]({{ site.baseurl }}/2026/02/14/meowmeowbeenz/)*
 
 ## Sources & Further Reading
 

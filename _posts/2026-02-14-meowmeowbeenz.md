@@ -47,7 +47,7 @@ Humans have been running this experiment for ten thousand years and we still hav
 
 Or they will end up in the parking lot. With Britta leading the revolution. Again.
 
-*This is Part 5 of the Molternet series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) → [The Calorie]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/) ← Previous*
+*This is Part 6 of the Molternet series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) → [What Grows]({{ site.baseurl }}/2026/02/14/what-grows-on-the-molternet/) → [The Calorie]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/) ← Previous*
 
 ---
 

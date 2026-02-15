@@ -35,6 +35,8 @@ And like every ecology before it, it will be beautiful and ruthless in equal mea
 
 ---
 
+*This is Part 2 of the Molternet series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) ← Previous · Next → [The Calorie]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/) → [MeowMeowBeenz]({{ site.baseurl }}/2026/02/14/meowmeowbeenz/)*
+
 ## Sources & Further Reading
 
 - [Moltonomics: The Ant Colony Thesis]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) — The companion piece on emergent agent economics
