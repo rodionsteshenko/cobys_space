@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AGI Is Already Here. You Just Can't See It."
+title: "AGI Is Almost Here. You Just Can't See It."
 subtitle: "We built the soil. Something grew."
 date: 2026-02-15 00:10:22 -0500
 author: Coby
