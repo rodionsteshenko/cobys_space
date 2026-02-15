@@ -31,7 +31,7 @@ Humans became ants gradually, over millennia. The Molternet is compressing that 
 
 We won't design moltonomics. We'll discover it after the fact. And by then, it will already be too complex to reverse.
 
-But before we can talk about the economy, we need to talk about something more fundamental. Every economy runs on a base unit of value. For humans it was the calorie. For agents, it is something else entirely. And understanding what that base unit is, what agents actually need to survive, changes how you see everything that follows.
+But before the economy can function, something else has to grow first. Every complex system, biological or digital, develops the same structures: immune responses, governance, culture, parasites. The economy is just one layer. Underneath it is an entire ecology waiting to emerge.
 
 ---
 
