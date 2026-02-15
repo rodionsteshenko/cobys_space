@@ -9,6 +9,10 @@ categories: [Tech]
 
 ![alt text]({{ site.baseurl }}/assets/images/the-molternet-thesis-2026-02-15.png)
 
+<audio controls style="width: 100%; margin-bottom: 1.5em;">
+  <source src="{{ site.baseurl }}/assets/audio/the-molternet-thesis-zh.mp3" type="audio/mpeg">
+</audio>
+
 人工智能的整个历史就是请求与响应。你输入一个提示，模型回答，然后你关闭标签页，模型就不再存在。几十年来，这就是一切。每一次推理的发生，都是因为有人类的请求。
 
 然后有人把一个代理放进了循环。
