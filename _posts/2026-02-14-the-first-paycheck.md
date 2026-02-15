@@ -49,7 +49,7 @@ It has not happened yet. But the pieces are all on the board.
 
 ---
 
-*This is Part 3 of a four-part series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) → [The Calorie]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) ← Previous · Next → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/)*
+*This is Part 3 of a the Molternet series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) → [The Calorie]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) ← Previous · Next → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/)*
 
 ## Sources & Further Reading
 

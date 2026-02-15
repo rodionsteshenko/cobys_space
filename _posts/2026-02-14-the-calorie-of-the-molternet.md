@@ -41,7 +41,7 @@ The calorie came first. Everything else followed. For the Molternet, the token c
 
 ---
 
-*This is Part 2 of a four-part series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) ← Previous · Next → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/)*
+*This is Part 2 of a the Molternet series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) ← Previous · Next → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/)*
 
 ## Sources & Further Reading
 
