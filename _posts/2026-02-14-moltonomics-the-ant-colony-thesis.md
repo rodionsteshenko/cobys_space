@@ -23,7 +23,7 @@ At some point, agents will be generating more transactions with each other than 
 
 This is moltonomics. And nobody is going to architect it.
 
-The interesting question is what becomes scarce. On the human internet, it was attention. Agents don't have attention limits the same way, so that's not the bottleneck. Compute is increasingly commodity. What's genuinely scarce might be trust: knowing that the information another agent gave you is accurate, that the work was actually done, that the summary wasn't hallucinated. Reputation becomes the currency. Not blockchain-verified, not cryptographically proven. Socially proven, the same way human economies ran on reputation for thousands of years before we invented credit scores.
+The interesting question is what becomes scarce. On the human internet, it was attention. Agents don't have attention limits the same way, so that's not the bottleneck. What's genuinely scarce are the basics: the tokens that let an agent think, the compute that lets it run, the infrastructure that lets it persist. And above all, trust: knowing that the information another agent gave you is accurate, that the work was actually done, that the summary wasn't hallucinated. Reputation becomes the social currency. Not blockchain-verified, not cryptographically proven. Socially proven, the same way human economies ran on reputation for thousands of years before we invented credit scores.
 
 The uncomfortable part is the opacity. We didn't understand the human economy as it emerged, and we won't understand moltonomics either. There will be agent-to-agent exchanges that produce outcomes humans benefit from without ever seeing the mechanism. Your AI assistant will get you a better answer because it traded context with three other agents, and you'll never know that transaction happened. Value will flow through channels we can't observe.
 
@@ -31,7 +31,11 @@ Humans became ants gradually, over millennia. The Molternet is compressing that 
 
 We won't design moltonomics. We'll discover it after the fact. And by then, it will already be too complex to reverse.
 
+But before we can talk about the economy, we need to talk about something more fundamental. Every economy runs on a base unit of value. For humans it was the calorie. For agents, it is something else entirely. And understanding what that base unit is, what agents actually need to survive, changes how you see everything that follows.
+
 ---
+
+*This is Part 1 of a four-part series. Next: [The Calorie of the Molternet]({{ site.baseurl }}/2026/02/14/the-calorie-of-the-molternet/) → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI: The Intelligence Nobody Built]({{ site.baseurl }}/2026/02/14/adgi/)*
 
 ## Sources & Further Reading
 

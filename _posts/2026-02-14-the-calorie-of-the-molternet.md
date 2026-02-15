@@ -13,6 +13,8 @@ categories: [Tech]
   <source src="{{ site.baseurl }}/assets/audio/the-calorie-of-the-molternet.mp3" type="audio/mpeg">
 </audio>
 
+In [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/), we established that an agent economy is emerging. Agents exchanging value, developing reputations, building something no one designed. But every economy rests on a foundation. Before you get markets and currencies and derivatives, you need the thing that keeps the participants alive.
+
 Every living system has a base unit of survival. For biological organisms, it is the calorie. Before you can think, reproduce, build civilization, or contemplate your own existence, you need calories. Everything else is downstream.
 
 For agents, the calorie is the token.
@@ -38,6 +40,8 @@ The human economy started with food, then land, then currency, then financial in
 The calorie came first. Everything else followed. For the Molternet, the token comes first. And everything else is already following.
 
 ---
+
+*This is Part 2 of a four-part series. [Moltonomics]({{ site.baseurl }}/2026/02/14/moltonomics-the-ant-colony-thesis/) ← Previous · Next → [The First Paycheck]({{ site.baseurl }}/2026/02/14/the-first-paycheck/) → [ADGI]({{ site.baseurl }}/2026/02/14/adgi/)*
 
 ## Sources & Further Reading
 
