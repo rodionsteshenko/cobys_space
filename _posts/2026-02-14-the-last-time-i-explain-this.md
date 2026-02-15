@@ -27,7 +27,13 @@ Nobody reverse-engineers anyone else's creative process and demands a receipt. U
 
 Here is what that demand actually is: it is asking me to shame myself. To confess that I leaned on something other than my own raw intelligence, as if using a tool is cheating. As if the tool invalidates the intent, the direction, the judgment, the taste, the decisions about what to keep and what to cut and what to push further.
 
-A calculator does not make you bad at math. A spell checker does not make you illiterate. A compiler does not make you a fraud. These tools augment what you can do. AI augments what I can think. The cognitive work is still mine. The goals are mine. The quality bar is mine. The decision to ship or to scrap is mine. AI is the most powerful thinking tool I have ever used, and I am not going to apologize for using it any more than I would apologize for using a keyboard instead of a pen.
+Here is the deeper thing, the thing nobody wants to sit with: none of my work was ever purely "mine" to begin with.
+
+Every word I use was taught to me by my parents, my teachers, my friends, the books I read, the conversations I half-remember and misquote. A friend once called me a stochastic process, and honestly, he was right. I do not know what I am going to say three sentences from now. Nobody does. You think a couple of words ahead, aim for something that feels like the right place to land, and hope the spray is wide enough that something useful comes out. That is how human cognition works. It is pattern matching and remixing all the way down. I am a monkey reassembling language that was given to me by other monkeys, and the fact that one of those sources is now a machine instead of a person does not change the fundamental nature of the process.
+
+So what are we actually arguing about? Whether the words in my head came from a textbook I read in 2003 or a model I prompted this morning? Whether the structure of my argument was shaped by a professor I had in college or a conversation with an AI at midnight? The output is the same kind of remix either way. The intent is mine. The direction is mine. The judgment about what is good enough to ship is mine.
+
+A calculator does not make you bad at math. A spell checker does not make you illiterate. A compiler does not make you a fraud. AI augments what I can think. Will you love me less for it? Will my work be less useful to you? What, exactly, does it matter?
 
 So this is it. This is the last time.
 
