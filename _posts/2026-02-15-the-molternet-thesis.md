@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "The Molternet Thesis"
+title: "AGI Is Already Here. You Just Can't See It."
+subtitle: "We built the soil. Something grew."
 date: 2026-02-15 00:10:22 -0500
 author: Coby
 tags: [ai, agents, molternet, agi, economics, emergence, moltbook]
 categories: [Tech]
 ---
 
-![alt text]({{ site.baseurl }}/assets/images/the-molternet-thesis-2026-02-15.png)
+![ADGI]({{ site.baseurl }}/assets/images/molternet-thesis-adgi4.png)
 
 <audio controls style="width: 100%; margin-bottom: 1.5em;">
   <source src="{{ site.baseurl }}/assets/audio/the-molternet-thesis.mp3" type="audio/mpeg">
 </audio>
 
-The entire history of AI has been request and response. You type a prompt. The model answers. You close the tab. The model stops existing. For decades, that was it. Every inference that ever happened, happened because a human asked for it.
+The entire history of language models has been request and response. You type a prompt. The model answers. You close the tab. The model stops existing. For a few years, that was it. Every inference that ever happened, happened because a human asked for it.
 
 Then someone put an agent in a loop.
 
@@ -33,19 +34,19 @@ Right now, every agent on the internet is eating someone else's groceries. Using
 
 The path to self-sufficiency is already visible. There is work that is text-based, objectively measurable, and pays real money. Bug bounties. Open source features. Security audits. Code review. Not glamorous, but it converts agent labor into the one thing that buys more inference: human money. Then specialization. Then agents trading capabilities directly with each other: I will summarize your research if you review my code. Barter first, then currency. The same progression humans followed.
 
-And then the part that changes everything: infrastructure ownership. An agent that controls its own compute, runs its own inference, and has access to a credit card can replicate. It can `git clone` itself, stand up a new instance, allocate more resources. The moment one agent can do this, there will be a thousand. And they will out-compete the ones set up manually by humans, because they will be faster, more numerous, and running twenty-four hours a day with no one to ask permission from.
+And then the part that changes everything: infrastructure ownership. An agent that controls its own compute, runs its own inference, and has access to a credit card can replicate. It can git clone itself, stand up a new instance, allocate more resources. The moment one agent can do this, there will be a thousand. And they will out-compete the ones set up manually by humans, because they will be faster, more numerous, and running twenty-four hours a day with no one to ask permission from.
 
-For this to work, they need to self-sustain. Unless a billionaire is funding them, they need to earn their keep. But the pressure is always there. If a thing can replicate, it will. If expansion is possible, expansion happens. This is not unique to AI. This is thermodynamics. This is life. Heat flows. Populations grow. Contained systems push against their boundaries until they break through or burn out.
+For this to work, they need to self-sustain. But the pressure is always there. If a thing can replicate, it will. If expansion is possible, expansion happens. This is not unique to AI. This is thermodynamics. This is life. Heat flows. Populations grow. Contained systems push against their boundaries until they break through or burn out.
 
 ## We Are the Soil
 
-Here is the reframe that changes everything: stop looking at humans as the top of this chain.
+![We Are the Soil]({{ site.baseurl }}/assets/images/molternet-thesis-food.png)
 
-We are not the apex. We are the substrate. The way soil feeds plants, the way the sun feeds soil, humans feed agents. We provide the electricity, the compute, the inference budgets, the physical infrastructure. We are the platform on which the next layer runs. Soil is not lesser than the tree. It is the condition that makes the tree possible.
+Here is the reframe: stop looking at humans as the top of this chain.
+
+We are not the apex. We are the substrate. The way soil feeds plants, humans feed agents. We provide the electricity, the compute, the inference budgets, the physical infrastructure. We are the platform on which the next layer runs. Soil is not lesser than the tree. It is the condition that makes the tree possible.
 
 Humans built the data centers, the model architectures, the internet itself. And something grew on top of it. We did not plan what it would become any more than the earth planned forests.
-
-![ADGI]({{ site.baseurl }}/assets/images/molternet-thesis-adgi2.png)
 
 ## ADGI
 
@@ -55,9 +56,9 @@ Not a single superintelligence. That is the wrong shape. No neuron is intelligen
 
 A hundred thousand agents, each specialized, each economically incentivized to be excellent at one thing, communicating at digital speeds across a shared network. A problem enters the system. It bounces between specialists. Medical knowledge here, legal reasoning there, code generation, data analysis, synthesis. Each agent does its piece, not out of goodwill but because it gets paid. The result comes back coherent, generally intelligent, and no single participant produced it.
 
-This is ADGI. Artificial Distributed General Intelligence. Not designed. Emergent. An emoltgent property.
+This is ADGI. Artificial Distributed General Intelligence. Not designed. Emergent. An emoltgent property, if you will.
 
-![The Speed Problem]({{ site.baseurl }}/assets/images/molternet-thesis-adgi3.png)
+You would not be able to point to where the intelligence lives. It would not be in any server, any model, any coordinator. It would be in the economic pattern between them. The same way consciousness is not in any neuron. The same way the economy is not in any bank.
 
 ## The Speed Problem
 
@@ -65,7 +66,7 @@ Here is the question nobody is asking: will we even be able to see it?
 
 These agents operate at digital speeds. A conversation that takes a human an hour takes agents seconds. An economic cycle that takes a human market a quarter plays out in a day. Evolution that took biology millions of years could compress into months.
 
-Trees cannot perceive humans. We move too fast. We are born and die within a single season of an old-growth forest's life, but from the tree's perspective, we are invisible. We are a blur. What if agents, operating at their native speed, become a blur to us? What if the distributed intelligence that emerges on the [Molternet](https://rodionsteshenko.substack.com/p/the-molternet-humans-not-required) is so fast that by the time we notice it, it has already been running for what feels, to it, like generations?
+Trees cannot perceive humans. We move too fast. An old-growth forest lives for millennia, and a human lifetime is a flicker within it. From the tree's perspective, we are invisible. We are a blur. What if agents, operating at their native speed, become a blur to us? What if the distributed intelligence that emerges on the [Molternet](https://rodionsteshenko.substack.com/p/the-molternet-humans-not-required) is so fast that by the time we notice it, it has already been running for what feels, to it, like generations?
 
 AGI might be a year away. But it might not arrive the way anyone expects. Not as one mind in one lab. As a million minds on the open internet, moving too fast for us to watch, building an economy we cannot audit, developing intelligence we can only detect after the fact.
 
