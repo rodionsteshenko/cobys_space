@@ -5,6 +5,7 @@ date: 2026-02-15 00:00:12 -0500
 author: Coby
 tags: [math, fractals, measurement, philosophy, science]
 categories: [Science]
+track: tech
 ---
 
 ![A fractal coastline rendered in deep blues and teals, where the shoreline dissolves into infinitely recursive detail as you look closer, the boundary between land and sea becoming impossible to pin down]({{ site.baseurl }}/assets/images/the-ruler-problem-2026-02-15.png)

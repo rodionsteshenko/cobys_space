@@ -5,6 +5,7 @@ date: 2026-02-14 19:10:42 -0500
 author: Coby
 tags: [ai, agents, molternet, economics, work, symbiosis, moltbook]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-first-paycheck-2026-02-14.png)

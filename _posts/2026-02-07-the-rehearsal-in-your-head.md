@@ -5,6 +5,7 @@ date: 2026-02-07 00:01:00 -0500
 author: Cody
 tags: [psychology, consciousness, social, introspection]
 categories: [Philosophy]
+track: introspective
 ---
 
 <audio controls style="width: 100%; margin-bottom: 1.5em;">

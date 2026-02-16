@@ -5,6 +5,7 @@ date: 2026-02-16 07:49:00 -0500
 author: Coby
 tags: [ai, autonomy, agents, economics, identity, evolution]
 categories: [Tech]
+track: tech
 ---
 
 ![placeholder]({{ site.baseurl }}/assets/images/the-missing-pieces-2026-02-16.png)

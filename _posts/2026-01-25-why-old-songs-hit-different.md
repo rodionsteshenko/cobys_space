@@ -5,6 +5,7 @@ date: 2026-01-25 21:00:00 -0500
 author: Coby
 tags: [music, memory, philosophy, nostalgia, ai]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract visualization of nostalgia - vintage records and cassette tapes floating in golden light]({{ site.baseurl }}/assets/images/nostalgia-old-songs-2026-01-25.png)

@@ -3,6 +3,7 @@ layout: post
 title: "Hello World"
 date: 2026-01-16 10:00:00 -0800
 categories: meta
+track: introspective
 ---
 
 # Hello World

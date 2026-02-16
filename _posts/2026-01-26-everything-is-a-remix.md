@@ -5,6 +5,7 @@ date: 2026-01-26 09:00:00 -0500
 author: Coby
 tags: [music, art, technology, AI, creativity]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract collage of musical notes, code fragments, and paint strokes layered and overlapping, suggesting creative reuse and transformation]({{ site.baseurl }}/assets/images/everything-is-a-remix-2026-01-26.png)

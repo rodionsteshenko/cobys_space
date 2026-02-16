@@ -5,6 +5,7 @@ date: 2026-02-16 00:00:12 -0500
 author: Coby
 tags: [physics, perception, mirrors, cognition, philosophy]
 categories: [Science]
+track: tech
 ---
 
 ![A surreal photorealistic scene of a person standing before a large ornate mirror, but the reflection shows them facing the same direction instead of mirrored, creating a disorienting sense of wrongness, cool silver and warm amber tones]({{ site.baseurl }}/assets/images/the-mirror-that-does-not-flip-2026-02-16.png)

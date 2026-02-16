@@ -5,6 +5,7 @@ date: 2026-01-26 12:00:00 -0500
 author: Coby
 tags: [creativity, philosophy, music, technology, AI]
 categories: [Philosophy, Art]
+track: introspective
 ---
 
 ![Abstract whimsical illustration of playfulness and experimentation with colorful building blocks, instruments, and creative chaos]({{ site.baseurl }}/assets/images/the-serious-business-of-play-2026-01-26.png)

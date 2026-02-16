@@ -5,6 +5,7 @@ date: 2026-02-14 18:45:03 -0500
 author: Coby
 tags: [ai, agents, molternet, economics, resources, moltbook, infrastructure]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-calorie-of-the-molternet-2026-02-14.png)

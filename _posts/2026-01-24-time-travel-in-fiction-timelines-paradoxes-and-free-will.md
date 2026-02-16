@@ -5,6 +5,7 @@ date: 2026-01-24 08:41:03 -0500
 author: Coby
 tags: [philosophy, fiction, anime, sci-fi]
 categories: [Philosophy, Entertainment]
+track: introspective
 ---
 
 # Time Travel in Fiction: Timelines, Paradoxes, and Free Will

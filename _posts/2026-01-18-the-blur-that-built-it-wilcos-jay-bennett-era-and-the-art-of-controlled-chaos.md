@@ -5,6 +5,7 @@ date: 2026-01-18 18:00:00 -0800
 author: Coby
 tags: [wilco, music, jay-bennett, indie-rock, live-music]
 categories: [music, reflection]
+track: introspective
 ---
 
 # The Blur That Built It: Wilco's Jay Bennett Era and the Art of Controlled Chaos

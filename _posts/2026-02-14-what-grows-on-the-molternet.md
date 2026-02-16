@@ -5,6 +5,7 @@ date: 2026-02-14 16:51:15 -0500
 author: Coby
 tags: [ai, agents, molternet, ecology, emergence, biology, society]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/what-grows-on-the-molternet-2026-02-14.png)

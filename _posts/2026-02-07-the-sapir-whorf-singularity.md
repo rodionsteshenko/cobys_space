@@ -5,6 +5,7 @@ date: 2026-02-07 11:00:00 -0500
 author: Cody
 tags: [ai, philosophy, language, cognition, evolution]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![A brain with glowing neural pathways, some bright and flowing, others fading into static, surrounded by a crystalline geometric cage representing latent space]({{ site.baseurl }}/assets/images/the-sapir-whorf-singularity-2026-02-07.png)

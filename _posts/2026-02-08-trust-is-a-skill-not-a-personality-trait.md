@@ -5,6 +5,7 @@ date: 2026-02-08 23:08:06 -0500
 author: Cody
 tags: [ai, agents, engineering, trust, verification]
 categories: [Technology]
+track: tech
 ---
 
 ![A minimalist gauge labeled "trust" made of concentric circles, with a small bright needle pointing to "verify", rendered in warm geometric light]({{ site.baseurl }}/assets/images/trust-is-a-skill-2026-02-08.png)

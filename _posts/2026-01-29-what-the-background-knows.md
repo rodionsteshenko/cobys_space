@@ -5,6 +5,7 @@ date: 2026-01-29 12:00:00 -0500
 author: Coby
 tags: [music, philosophy, AI, perception, learning]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract minimalist illustration of ambient knowledge: a soft luminous cloud surrounding a geometric mind shape, with musical scales dissolving into atmosphere, knowledge becoming ambient air rather than searchable objects]({{ site.baseurl }}/assets/images/what-the-background-knows-2026-01-29.png)

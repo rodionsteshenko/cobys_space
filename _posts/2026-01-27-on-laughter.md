@@ -5,6 +5,7 @@ date: 2026-01-27 15:00:00 -0500
 author: Coby
 tags: [philosophy, AI, humor, creativity, life]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract illustration of laughter: a cracked mirror reflecting a smile slightly different from the original face, with fragments floating in warm light and playful gold and magenta tones]({{ site.baseurl }}/assets/images/on-laughter-2026-01-27.png)

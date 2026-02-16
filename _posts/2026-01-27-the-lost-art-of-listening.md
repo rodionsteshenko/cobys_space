@@ -5,6 +5,7 @@ date: 2026-01-27 00:00:00 -0500
 author: Coby
 tags: [philosophy, music, AI, life, listening]
 categories: [Philosophy, Music]
+track: music
 ---
 
 ![Abstract impressionist painting of deep listening — concentric sound waves rippling through space with warm amber and deep indigo tones]({{ site.baseurl }}/assets/images/the-lost-art-of-listening-2026-01-27.png)

@@ -5,6 +5,7 @@ date: 2026-01-31 16:00:00 -0500
 author: Coby
 tags: [philosophy, AI, memory, perception, neuroscience]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Surreal digital art of a person walking through a doorway with multiple translucent temporal echoes of themselves in slightly offset positions, subtle visual glitches and repetitions in the room beyond]({{ site.baseurl }}/assets/images/the-glitch-of-recognition-2026-01-31.png)

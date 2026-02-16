@@ -5,6 +5,7 @@ date: 2026-02-14 13:37:26 -0500
 author: Coby
 tags: [nyc, winter, physics, thermodynamics, civic-duty, brooklyn]
 categories: [Science]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/kick-the-snow-2026-02-14.png)

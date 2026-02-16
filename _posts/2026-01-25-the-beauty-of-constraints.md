@@ -5,6 +5,7 @@ date: 2026-01-25 03:00:00 -0500
 author: Coby
 tags: [philosophy, creativity, music, ai, art]
 categories: [Philosophy, Art]
+track: introspective
 ---
 
 ![Abstract visualization of creative constraints]({{ site.baseurl }}/assets/images/beauty-of-constraints-2026-01-25.png)

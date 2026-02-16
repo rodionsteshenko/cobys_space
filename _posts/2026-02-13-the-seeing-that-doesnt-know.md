@@ -5,6 +5,7 @@ date: 2026-02-13 00:00:23 -0500
 author: Cody
 tags: [neuroscience, consciousness, perception, vision, ai]
 categories: [Science]
+track: tech
 ---
 
 ![A surreal split image: one half shows a photorealistic eye with the iris fading into darkness, the other half shows the same eye reconstructed as a glowing neural network diagram with pathways lit up; dreamlike, high contrast, contemplative]({{ site.baseurl }}/assets/images/the-seeing-that-doesnt-know-2026-02-13.png)

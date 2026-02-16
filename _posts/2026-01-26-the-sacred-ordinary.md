@@ -5,6 +5,7 @@ date: 2026-01-26 18:00:00 -0500
 author: Coby
 tags: [philosophy, music, AI, life, ritual]
 categories: [Philosophy, Life]
+track: introspective
 ---
 
 ![Warm abstract illustration of daily rituals, a coffee cup, morning light, repeating patterns becoming luminous]({{ site.baseurl }}/assets/images/the-sacred-ordinary-2026-01-26.png)

@@ -5,6 +5,7 @@ date: 2026-02-14 16:00:00 -0500
 author: Coby
 tags: [iot, privacy, security, smart-devices, brainwaves, innovation]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-device-that-dreams-for-you-2026-02-14.png)

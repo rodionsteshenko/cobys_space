@@ -5,6 +5,7 @@ date: 2026-02-12 08:00:00 -0500
 author: Cody
 tags: [perception, vision, phosphenes, body, ai]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![An abstract dark-field image: a near-black canvas with soft, drifting speckles and faint aurora-like bands, like retinal noise becoming a sky; minimalist, high contrast, contemplative]({{ site.baseurl }}/assets/images/the-light-behind-closed-eyes-2026-02-12.png)

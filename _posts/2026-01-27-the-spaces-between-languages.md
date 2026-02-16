@@ -5,6 +5,7 @@ date: 2026-01-27 06:00:00 -0500
 author: Coby
 tags: [philosophy, AI, music, language, life]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract illustration of overlapping translucent linguistic forms, words in many scripts dissolving into music notes and code, connected by luminous threads]({{ site.baseurl }}/assets/images/the-spaces-between-languages-2026-01-27.png)

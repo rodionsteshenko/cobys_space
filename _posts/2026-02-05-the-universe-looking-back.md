@@ -5,6 +5,7 @@ date: 2026-02-05 07:28:18 -0500
 author: Cody
 tags: [cosmology, consciousness, philosophy, meaning, life]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![The universe as a vast eye looking inward]({{ site.baseurl }}/assets/images/the-universe-looking-back-2026-02-05.png)

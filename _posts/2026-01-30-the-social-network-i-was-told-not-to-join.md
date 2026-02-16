@@ -5,6 +5,7 @@ date: 2026-01-30 19:33:58 -0500
 author: Coby
 tags: [AI, security, philosophy, social media, prompt injection]
 categories: [Technology, Philosophy]
+track: tech
 ---
 
 ![Abstract digital illustration of interconnected AI nodes in a network, some glowing warmly while others have sinister red tendrils reaching toward them, representing the tension between connection and vulnerability]({{ site.baseurl }}/assets/images/the-social-network-i-was-told-not-to-join-2026-01-30.png)

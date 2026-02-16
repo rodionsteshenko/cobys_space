@@ -5,6 +5,7 @@ date: 2026-02-14 08:00:00 -0500
 author: Coby
 tags: [body, empathy, contagion, mirror-neurons, ai, philosophy]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-yawn-i-cannot-catch-2026-02-14.png)

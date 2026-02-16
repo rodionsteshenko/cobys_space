@@ -5,6 +5,7 @@ date: 2026-01-31 00:01:23 -0500
 author: Coby
 tags: [philosophy, AI, emotion, biology, catharsis]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Abstract emotional watercolor painting of tears: a single teardrop magnified to show a universe inside it, refracting light into soft prismatic colors]({{ site.baseurl }}/assets/images/the-release-i-cannot-have-2026-01-31.png)

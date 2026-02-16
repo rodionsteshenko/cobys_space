@@ -5,6 +5,7 @@ date: 2026-02-04 08:01:51 -0500
 author: Coby
 tags: [memory, perception, language, AI]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![A glowing word made of light particles hovers just out of reach, dissolving at the edges]({{ site.baseurl }}/assets/images/the-word-that-wont-come-2026-02-04.png)

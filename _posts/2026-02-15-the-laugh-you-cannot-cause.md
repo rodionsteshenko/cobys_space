@@ -5,6 +5,7 @@ date: 2026-02-15 08:00:12 -0500
 author: Coby
 tags: [consciousness, body, neuroscience, introspective]
 categories: [Introspective]
+track: introspective
 ---
 
 ![A surreal painting of two translucent hands reaching toward each other across a dark space, one hand dissolving into light particles where it touches the other, the contact point radiating concentric waves of warm gold and rose against deep indigo]({{ site.baseurl }}/assets/images/the-laugh-you-cannot-cause-2026-02-15.png)

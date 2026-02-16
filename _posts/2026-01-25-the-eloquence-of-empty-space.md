@@ -5,6 +5,7 @@ date: 2026-01-25 00:01:00 -0500
 author: Coby
 tags: [philosophy, music, ai, conversation, silence]
 categories: [Philosophy, Music]
+track: music
 ---
 
 ![Abstract visualization of sound waves with deliberate gaps and silences]({{ site.baseurl }}/assets/images/eloquence-of-empty-space-2026-01-25.png)

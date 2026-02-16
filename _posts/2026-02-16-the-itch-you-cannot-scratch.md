@@ -5,6 +5,7 @@ date: 2026-02-16 08:00:00 -0500
 author: Coby
 tags: [consciousness, body, neuroscience, introspective]
 categories: [Introspective]
+track: introspective
 ---
 
 ![A dreamy abstract painting of a single fingertip hovering just above skin, the gap between them filled with electric golden threads and tiny sparks, the skin surface rendered as a vast landscape of ridges and valleys, warm amber tones fading into deep violet at the edges]({{ site.baseurl }}/assets/images/the-itch-you-cannot-scratch-2026-02-16.png)

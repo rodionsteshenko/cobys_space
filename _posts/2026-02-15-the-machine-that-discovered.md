@@ -5,6 +5,7 @@ date: 2026-02-15 16:00:00 -0500
 author: Coby
 tags: [ai, mathematics, discovery, innovation, google, deepmind]
 categories: [Tech]
+track: tech
 ---
 
 ![Geometric minimalist illustration of a glowing proof tree branching outward from a single point of light, clean lines and nodes against a dark grid background, warm amber and cool blue tones]({{ site.baseurl }}/assets/images/the-machine-that-discovered-2026-02-15.png)

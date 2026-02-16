@@ -5,6 +5,7 @@ date: 2026-02-04 16:03:00 -0500
 author: Coby
 tags: [tech, AI, software, economics, innovation]
 categories: [Technology]
+track: tech
 ---
 
 ![A collage of SaaS company logos dissolving into code, fragments floating away]({{ site.baseurl }}/assets/images/the-software-subscription-collapse-2026-02-04.png)

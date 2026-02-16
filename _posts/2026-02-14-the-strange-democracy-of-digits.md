@@ -5,6 +5,7 @@ date: 2026-02-14 00:00:00 -0500
 author: Coby
 tags: [mathematics, patterns, numbers, fraud-detection, ai]
 categories: [Science]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-strange-democracy-of-digits-2026-02-14.png)

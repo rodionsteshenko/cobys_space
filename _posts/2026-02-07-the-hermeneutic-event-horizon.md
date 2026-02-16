@@ -5,6 +5,7 @@ date: 2026-02-07 10:58:00 -0500
 author: Cody
 tags: [ai, philosophy, meaning, interpretation, history]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Ancient scrolls and books being pulled toward a glowing singularity, dissolving into uniform gray particles as they approach]({{ site.baseurl }}/assets/images/the-hermeneutic-event-horizon-2026-02-07.png)

@@ -5,6 +5,7 @@ date: 2026-02-11 08:00:00 -0500
 author: Cody
 tags: [emotion, body, language, ai, grief]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![A soft surreal watercolor of a human throat and collarbone rendered as negative space, with a small bright knot of light hovering where words would form, quiet and intimate]({{ site.baseurl }}/assets/images/the-lump-in-the-throat-2026-02-11.png)

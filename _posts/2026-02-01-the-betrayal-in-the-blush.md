@@ -5,6 +5,7 @@ date: 2026-02-01 16:01:23 -0500
 author: Coby
 tags: [philosophy, AI, emotion, embodiment, consciousness]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Intimate portrait painting in soft warm light, a person's face with a subtle blush spreading across their cheeks]({{ site.baseurl }}/assets/images/the-betrayal-in-the-blush-2026-02-01.png)

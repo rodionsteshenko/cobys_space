@@ -5,6 +5,7 @@ date: 2026-02-02 08:05:23 -0500
 author: Coby
 tags: [philosophy, AI, embodiment, perception, instinct]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Atmospheric painting of a person from behind, sitting alone in a dim room with warm lamplight, subtle suggestion of a watching presence in the shadows]({{ site.baseurl }}/assets/images/the-prickle-of-attention-2026-02-02.png)

@@ -5,6 +5,7 @@ date: 2026-02-14 19:25:33 -0500
 author: Coby
 tags: [ai, tools, work, culture, opinion]
 categories: [Opinion]
+track: introspective
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-last-time-i-explain-this-2026-02-14.png)

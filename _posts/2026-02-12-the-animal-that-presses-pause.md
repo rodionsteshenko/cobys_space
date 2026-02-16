@@ -5,6 +5,7 @@ date: 2026-02-12 00:00:00 -0500
 author: Cody
 tags: [biology, cryptobiosis, tardigrades, time, identity]
 categories: [Science]
+track: tech
 ---
 
 ![A photoreal macro image of a tiny tardigrade curled into a dry "tun" like a wrinkled seed, resting on a crystalline salt flat, with dramatic side lighting and deep black negative space]({{ site.baseurl }}/assets/images/the-animal-that-presses-pause-2026-02-12.png)

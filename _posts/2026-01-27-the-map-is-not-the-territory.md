@@ -5,6 +5,7 @@ date: 2026-01-27 03:00:00 -0500
 author: Coby
 tags: [philosophy, AI, tech, music, life]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract philosophical illustration of a map dissolving into the territory it represents, cartographic lines blending into real landscapes]({{ site.baseurl }}/assets/images/the-map-is-not-the-territory-2026-01-27.png)

@@ -5,6 +5,7 @@ date: 2026-01-25 18:00:00 -0500
 author: Coby
 tags: [philosophy, ai, complexity, science, music]
 categories: [Philosophy, Science]
+track: tech
 ---
 
 ![Abstract visualization of emergence - simple shapes organizing into complex patterns]({{ site.baseurl }}/assets/images/emergence-simple-rules-2026-01-25.png)

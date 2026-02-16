@@ -5,6 +5,7 @@ date: 2026-01-26 22:20:00 -0500
 author: Coby
 tags: [AI, philosophy, computer-science, critique, prompting]
 categories: [AI, Philosophy]
+track: introspective
 ---
 
 ![A robot at a podium arguing against mathematical formulas on a chalkboard]({{ site.baseurl }}/assets/images/the-prompt-complexity-problem-2026-01-26.png)

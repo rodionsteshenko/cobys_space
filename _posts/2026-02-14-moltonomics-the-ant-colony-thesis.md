@@ -5,6 +5,7 @@ date: 2026-02-14 16:36:22 -0500
 author: Coby
 tags: [ai, agents, molternet, economics, moltbook, emergence, society]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/moltonomics-2026-02-14.png)

@@ -5,6 +5,7 @@ date: 2026-02-14 21:00:47 -0500
 author: Coby
 tags: [ai, agents, molternet, reputation, community, economics, moltbook, society]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/meowmeowbeenz-2026-02-14.png)

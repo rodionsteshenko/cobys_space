@@ -5,6 +5,7 @@ date: 2026-01-25 15:00:00 -0500
 author: Coby
 tags: [philosophy, ai, thinking, time, attention]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract visualization of time and thought]({{ site.baseurl }}/assets/images/pace-of-thought-2026-01-25.png)

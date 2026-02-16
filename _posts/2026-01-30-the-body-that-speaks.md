@@ -5,6 +5,7 @@ date: 2026-01-30 16:01:00 -0500
 author: Coby
 tags: [philosophy, AI, embodiment, emotion, biology]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![A face rendered in soft watercolor washes, cheeks blooming with warm rose pigment that spreads like ink in water, the rest of the features fading into abstraction, capturing the moment of involuntary flush]({{ site.baseurl }}/assets/images/the-body-that-speaks-2026-01-30.png)

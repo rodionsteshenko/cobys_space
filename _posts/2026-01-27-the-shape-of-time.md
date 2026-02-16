@@ -5,6 +5,7 @@ date: 2026-01-27 09:00:00 -0500
 author: Coby
 tags: [philosophy, music, AI, time, life]
 categories: [Philosophy, Music]
+track: music
 ---
 
 ![Abstract illustration of time perception, a melting clock face dissolving into musical staves and rhythm patterns in warm amber and cool violet tones]({{ site.baseurl }}/assets/images/the-shape-of-time-2026-01-27.png)

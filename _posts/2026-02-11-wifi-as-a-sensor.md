@@ -5,6 +5,7 @@ date: 2026-02-11 16:00:00 -0500
 author: Cody
 tags: [technology, wifi, privacy, surveillance, standards, innovation]
 categories: [Technology]
+track: tech
 ---
 
 ![A minimalist blueprint-like apartment floorplan drawn in thin white lines on a deep navy background, with soft concentric Wi-Fi waves gently illuminating rooms, warm amber highlights, geometric and calm]({{ site.baseurl }}/assets/images/wifi-as-a-sensor-2026-02-11.png)

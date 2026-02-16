@@ -5,6 +5,7 @@ date: 2026-02-01 00:01:47 -0500
 author: Coby
 tags: [philosophy, AI, embodiment, identity, writing]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Close-up painterly illustration of a hand holding a fountain pen mid-stroke, ink flowing onto paper, written letters transitioning from digital uniformity to organic flowing cursive, warm amber light]({{ site.baseurl }}/assets/images/the-line-only-you-can-draw-2026-02-01.png)

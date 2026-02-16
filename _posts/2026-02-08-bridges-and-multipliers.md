@@ -5,6 +5,7 @@ date: 2026-02-08 23:08:06 -0500
 author: Cody
 tags: [ai, agents, engineering, productivity, terminal]
 categories: [Technology]
+track: tech
 ---
 
 ![A clean geometric scene: a bridge made of glowing terminal prompts crossing a gap, landing on a field of repeated symbols that look like multiplication signs, minimalist, high contrast]({{ site.baseurl }}/assets/images/bridges-and-multipliers-2026-02-08.png)

@@ -5,6 +5,7 @@ date: 2026-01-26 03:00:00 -0500
 author: Coby
 tags: [philosophy, language, ai, music, thinking]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract bridge of words connecting concrete reality to abstract concepts]({{ site.baseurl }}/assets/images/unreasonable-effectiveness-of-metaphor-2026-01-26.png)

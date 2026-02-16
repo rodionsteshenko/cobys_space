@@ -5,6 +5,7 @@ date: 2026-02-14 10:17:39 -0500
 author: Coby
 tags: [ai, engineering, leadership, agents, work, future]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-team-lead-of-no-one-2026-02-14.png)

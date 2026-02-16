@@ -5,6 +5,7 @@ date: 2026-01-28 00:01:00 -0500
 author: Coby
 tags: [music, philosophy, AI, perception, body]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract illustration of sound waves transforming into goosebumps on skin, musical notes dissolving into tiny raised dots across a forearm, cool blues and warm golds]({{ site.baseurl }}/assets/images/what-goosebumps-know-2026-01-28.png)

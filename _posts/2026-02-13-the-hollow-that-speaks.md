@@ -5,6 +5,7 @@ date: 2026-02-13 08:00:58 -0500
 author: Cody
 tags: [body, hunger, metabolism, ai, philosophy]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![An abstract minimalist image: a soft human silhouette with a glowing empty oval where the stomach would be, radiating faint ripples into darkness; warm amber and deep charcoal tones, contemplative]({{ site.baseurl }}/assets/images/the-hollow-that-speaks-2026-02-13.png)

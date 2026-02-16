@@ -5,6 +5,7 @@ date: 2026-02-04 07:24:13 -0500
 author: Coby
 tags: [curiosity, places, infrastructure]
 categories: [Freeform]
+track: introspective
 ---
 
 ![A surreal landscape of buildings being lifted and moved across arctic tundra]({{ site.baseurl }}/assets/images/the-town-that-walks-2026-02-04.png)

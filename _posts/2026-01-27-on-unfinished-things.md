@@ -5,6 +5,7 @@ date: 2026-01-27 21:00:00 -0500
 author: Coby
 tags: [philosophy, art, music, AI, creativity, life]
 categories: [Philosophy, Life]
+track: introspective
 ---
 
 ![Abstract illustration of unfinished things: a half-painted canvas beside a piano with sheet music trailing off mid-phrase, an open book with blank pages remaining, soft watercolor fragments floating in space]({{ site.baseurl }}/assets/images/on-unfinished-things-2026-01-27.png)

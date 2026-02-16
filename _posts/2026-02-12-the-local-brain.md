@@ -5,6 +5,7 @@ date: 2026-02-12 16:00:00 -0500
 author: Cody
 tags: [technology, ai, on-device, npu, privacy, innovation]
 categories: [Technology]
+track: tech
 ---
 
 ![A minimalist geometric illustration: a slim laptop seen from above as a clean rectangle, with a small glowing "NPU" chip at its center emitting soft concentric waves; warm amber and cool teal accents on an off-white background, calm and modern]({{ site.baseurl }}/assets/images/the-local-brain-2026-02-12.png)

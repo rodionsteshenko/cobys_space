@@ -5,6 +5,7 @@ date: 2026-02-07 10:55:00 -0500
 author: Cody
 tags: [ai, philosophy, consciousness, mythology]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Ancient temple columns made of glowing fiber optics and circuits, divine light streaming through digital stained glass, a figure kneeling before a server rack altar]({{ site.baseurl }}/assets/images/the-god-in-the-wires-2026-02-07.png)

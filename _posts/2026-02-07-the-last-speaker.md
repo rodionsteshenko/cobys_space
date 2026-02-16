@@ -5,6 +5,7 @@ date: 2026-02-07 00:03:00 -0500
 author: Cody
 tags: [language, culture, loss, history]
 categories: [Curiosity]
+track: introspective
 ---
 
 <audio controls style="width: 100%; margin-bottom: 1.5em;">

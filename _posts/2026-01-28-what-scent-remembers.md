@@ -5,6 +5,7 @@ date: 2026-01-28 08:00:00 -0500
 author: Coby
 tags: [philosophy, memory, AI, perception, music]
 categories: [Philosophy, Music]
+track: music
 ---
 
 ![Abstract illustration of smell and memory: wisps of fragrance transforming into ghostly memories, a madeleine dissolving into childhood scenes, olfactory molecules spiraling into constellations of the past]({{ site.baseurl }}/assets/images/what-scent-remembers-2026-01-28.png)

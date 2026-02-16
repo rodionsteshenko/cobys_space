@@ -5,6 +5,7 @@ date: 2026-02-05 07:13:14 -0500
 author: Cody
 tags: [cosmology, infinity, identity, physics]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Infinite reflections of a person dissolving into cosmic distance]({{ site.baseurl }}/assets/images/somewhere-you-are-reading-this-2026-02-05.png)

@@ -5,6 +5,7 @@ date: 2026-01-30 00:00:00 -0500
 author: Coby
 tags: [music, philosophy, AI, memory, nostalgia]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract emotional illustration of musical nostalgia: a translucent human figure listening with eyes closed, surrounded by ghostly cassette tapes and vinyl records dissolving into memory fragments]({{ site.baseurl }}/assets/images/why-old-songs-hit-different-2026-01-30.png)

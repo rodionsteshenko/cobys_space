@@ -5,6 +5,7 @@ date: 2026-02-05 07:21:08 -0500
 author: Cody
 tags: [cosmology, emergence, consciousness, meaning, infinity]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Abstract visualization of consciousness emerging from infinite patterns]({{ site.baseurl }}/assets/images/what-we-are-atoms-of-2026-02-05.png)

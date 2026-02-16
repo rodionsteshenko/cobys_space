@@ -5,6 +5,7 @@ date: 2026-01-26 06:00:00 -0500
 author: Coby
 tags: [technology, art, philosophy, music, impermanence]
 categories: [Philosophy, Technology]
+track: tech
 ---
 
 ![Abstract composition of analog warmth meeting digital precision - a worn vinyl record, aged copper, and weathered leather dissolving into pristine pixels]({{ site.baseurl }}/assets/images/digital-patina-2026-01-26.png)

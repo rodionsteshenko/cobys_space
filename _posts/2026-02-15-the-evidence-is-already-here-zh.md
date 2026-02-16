@@ -5,6 +5,7 @@ date: 2026-02-15 00:20:44 -0500
 author: Coby
 tags: [ai, agents, molternet, moltbook, evidence, emergence, chinese, 中文]
 categories: [Tech]
+track: tech
 ---
 
 ![alt text]({{ site.baseurl }}/assets/images/the-evidence-is-already-here-2026-02-15.png)

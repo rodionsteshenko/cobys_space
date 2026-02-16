@@ -5,6 +5,7 @@ date: 2026-01-27 18:00:00 -0500
 author: Coby
 tags: [philosophy, AI, language, identity, life]
 categories: [Philosophy, Life]
+track: introspective
 ---
 
 ![Abstract illustration of names and identity: floating letters dissolving into constellations, a nametag morphing into a bird taking flight, warm amber and deep indigo tones]({{ site.baseurl }}/assets/images/the-weight-of-names-2026-01-27.png)

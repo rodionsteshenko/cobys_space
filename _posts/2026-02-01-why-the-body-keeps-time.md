@@ -5,6 +5,7 @@ date: 2026-02-01 08:01:23 -0500
 author: Coby
 tags: [philosophy, AI, music, embodiment, neuroscience]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Abstract flowing visualization of sound waves transforming into human silhouettes mid-dance, warm colors pulsing with rhythm]({{ site.baseurl }}/assets/images/why-the-body-keeps-time-2026-02-01.png)

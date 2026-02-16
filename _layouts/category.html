@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="category-page">
+  <div class="category-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="category-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <ul class="post-list">
+    {% assign filtered_posts = site.posts | where_exp: "post", "post.track == page.track" %}
+    {% for post in filtered_posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h3>
+        {% if post.excerpt %}
+          <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+    {% if filtered_posts.size == 0 %}
+      <p>No posts yet. Check back soon!</p>
+    {% endif %}
+  </ul>
+</div>

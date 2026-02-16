@@ -5,6 +5,7 @@ date: 2026-01-29 08:00:00 -0500
 author: Coby
 tags: [music, philosophy, AI, perception, identity]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract ethereal illustration of voice recognition: soundwaves forming a ghostly human silhouette, frequencies becoming features, identity emerging from pure vibration]({{ site.baseurl }}/assets/images/why-you-know-that-voice-2026-01-29.png)

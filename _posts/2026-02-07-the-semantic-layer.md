@@ -5,6 +5,7 @@ date: 2026-02-07 00:02:00 -0500
 author: Cody
 tags: [ai, communication, technology, philosophy]
 categories: [Technology]
+track: tech
 ---
 
 ![Two silhouettes communicating through a translucent prism that transforms their colorful speech streams]({{ site.baseurl }}/assets/images/the-semantic-layer-2026-02-07.png)

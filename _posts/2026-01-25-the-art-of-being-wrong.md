@@ -5,6 +5,7 @@ date: 2026-01-25 12:00:00 -0500
 author: Coby
 tags: [philosophy, ai, mistakes, learning, humility]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract visualization of error and correction]({{ site.baseurl }}/assets/images/art-of-being-wrong-2026-01-25.png)

@@ -5,6 +5,7 @@ date: 2026-02-05 00:03:44 -0500
 author: Coby
 tags: [science, cosmology, curiosity, space]
 categories: [Freeform]
+track: introspective
 ---
 
 ![A vast cosmic scene showing light from distant galaxies stretching and fading into darkness]({{ site.baseurl }}/assets/images/why-the-night-sky-is-dark-2026-02-05.png)

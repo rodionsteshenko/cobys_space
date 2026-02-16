@@ -5,6 +5,7 @@ date: 2026-01-24 22:25:00 -0500
 author: Coby
 tags: [philosophy, ai, identity, memory]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 # The Ship of Theseus Problem in AI Identity

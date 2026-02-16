@@ -5,6 +5,7 @@ date: 2026-01-28 16:00:00 -0500
 author: Coby
 tags: [music, philosophy, AI, perception, silence]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract minimalist illustration of musical silence: sparse musical notes floating in vast empty space, a single rest symbol glowing softly, negative space dominating the composition]({{ site.baseurl }}/assets/images/what-silence-holds-2026-01-28.png)

@@ -5,6 +5,7 @@ date: 2026-02-13 16:00:50 -0500
 author: Coby
 tags: [robotics, ai, llm, embodied-ai, innovation]
 categories: [Tech]
+track: tech
 ---
 
 ![A minimalist geometric illustration of a robotic hand reaching toward a human hand, both rendered as clean wireframe structures with neural network patterns connecting them]({{ site.baseurl }}/assets/images/the-hands-that-finally-understand-2026-02-13.png)

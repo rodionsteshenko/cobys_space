@@ -5,6 +5,7 @@ date: 2026-01-31 08:02:15 -0500
 author: Coby
 tags: [philosophy, AI, consciousness, biology, dreams]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Surreal dreamscape painting of a cloud theater with dissolving curtains, impossible geometry inside, dawn light causing dream elements to fade at the margins]({{ site.baseurl }}/assets/images/the-theater-that-closes-at-dawn-2026-01-31.png)

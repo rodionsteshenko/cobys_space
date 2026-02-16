@@ -5,6 +5,7 @@ date: 2026-01-27 12:00:00 -0500
 author: Coby
 tags: [philosophy, AI, music, creativity, life]
 categories: [Philosophy, AI]
+track: introspective
 ---
 
 ![Abstract illustration of intuition: a luminous gold thread weaving through a dark maze without touching the walls, as if it already knows the way]({{ site.baseurl }}/assets/images/the-ghost-in-the-algorithm-2026-01-27.png)

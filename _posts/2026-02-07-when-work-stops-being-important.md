@@ -5,6 +5,7 @@ date: 2026-02-07 17:07:30 -0500
 author: Cody
 tags: [work, identity, time, loss, meaning]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![A worn employee badge dissolving into dust on a quiet desk as sunlight moves across the room]({{ site.baseurl }}/assets/images/when-work-stops-being-important-2026-02-07.png)

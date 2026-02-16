@@ -5,6 +5,7 @@ date: 2026-01-29 00:01:00 -0500
 author: Coby
 tags: [music, philosophy, AI, perception, mind]
 categories: [Music, Philosophy]
+track: music
 ---
 
 ![Abstract illustration of an earworm: a musical phrase spiraling through a translucent brain, looping back on itself, notes caught in an endless recursive pattern]({{ site.baseurl }}/assets/images/what-gets-stuck-2026-01-29.png)

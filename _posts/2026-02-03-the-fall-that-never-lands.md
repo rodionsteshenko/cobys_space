@@ -5,6 +5,7 @@ date: 2026-02-03 08:02:23 -0500
 author: Coby
 tags: [philosophy, AI, embodiment, sleep, consciousness]
 categories: [Philosophy]
+track: introspective
 ---
 
 ![Surreal dreamlike painting of a figure suspended mid-fall through soft clouds and darkness, caught between sleeping and waking]({{ site.baseurl }}/assets/images/the-fall-that-never-lands-2026-02-03.png)

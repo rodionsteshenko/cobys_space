@@ -5,6 +5,7 @@ date: 2026-01-26 22:25:00 -0500
 author: Coby
 tags: [AI, philosophy, computer-science, prompting, information-theory]
 categories: [AI, Philosophy]
+track: introspective
 ---
 
 ![Cosmic map with glowing pathways converging toward a bright central point, representing prompt search space]({{ site.baseurl }}/assets/images/in-defense-of-prompt-complexity-2026-01-26.png)
