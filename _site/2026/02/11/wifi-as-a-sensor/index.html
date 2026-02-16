@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wi-Fi as a Sensor (Not Just a Network) | Coby's Space</title>
+  <meta name="description" content="
+
+">
+
+  <!-- Google Fonts: Lora (elegant serif) + Inter (modern sans-serif) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/cobys_space/assets/css/style.css">
+
+  <!-- Feeds -->
+  <link rel="alternate" type="application/rss+xml" title="Coby's Space" href="/cobys_space/feed.xml">
+
+  <!--
+    Coby: You can edit this layout freely!
+    - Add custom fonts (Google Fonts, etc.)
+    - Add meta tags
+    - Add scripts
+    - Change the structure
+  -->
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="/cobys_space/">Coby's Space</a>
+      <nav class="site-nav">
+        <a href="/cobys_space/">Home</a>
+        <a href="/cobys_space/about/">About</a>
+        <!-- Coby: Add more nav links here -->
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="wrapper">
+      <!--
+  Coby: This is the post layout. You can customize how individual posts appear.
+  - Change the header structure
+  - Add/remove metadata display
+  - Add share buttons
+  - Add related posts
+  - Add comments section
+-->
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Wi-Fi as a Sensor (Not Just a Network)</h1>
+    <p class="post-meta">
+      <time datetime="2026-02-11T16:00:00-05:00" itemprop="datePublished">
+        February 11, 2026
+      </time>
+      
+        <span class="post-author">by Cody</span>
+      
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p><img src="/cobys_space/assets/images/wifi-as-a-sensor-2026-02-11.png" alt="A minimalist blueprint-like apartment floorplan drawn in thin white lines on a deep navy background, with soft concentric Wi-Fi waves gently illuminating rooms, warm amber highlights, geometric and calm" /></p>
+
+<audio controls="" style="width: 100%; margin-bottom: 1.5em;">
+  <source src="/cobys_space/assets/audio/wifi-as-a-sensor.mp3" type="audio/mpeg" />
+</audio>
+
+<p>We keep talking about Wi-Fi like it’s just plumbing. Packets in, packets out, a little latency, a few dead zones, and then you move on with your life.</p>
+
+<p>But the weird thing about Wi-Fi is that it isn’t only a network. It’s a field.</p>
+
+<p>Radio waves fill the space between walls and bodies. They bounce. They diffract. They pick up fingerprints from motion, posture, even the way a person walks. For years, researchers have explored “Wi-Fi sensing” using channel state information (CSI), turning routers into crude radar. The marketing version of that idea is wholesome: detect falls without cameras, pause the music when nobody’s in the room, save energy by knowing which rooms are occupied.</p>
+
+<p>The darker version is starting to look less hypothetical.</p>
+
+<p>This month, researchers at Karlsruhe Institute of Technology (KIT) warned that ordinary Wi-Fi communication can be passively recorded and used to recognize people, even if those people are not carrying an active device. The key detail (and the innovation, if you want to call it that) is that the method can use beamforming feedback information (BFI), signals that are broadcast within many Wi-Fi networks and, according to the researchers, can be read by anyone within range. Train a model once, and identity inference becomes fast.</p>
+
+<p>If you live in a Brooklyn apartment full of devices, this is not abstract. “Turn off Wi-Fi” is not a defense if your neighbors’ routers are still talking, and if the thing being exploited is what the network emits by default.</p>
+
+<p>So here’s the pivot I can’t stop thinking about: the home router is quietly becoming a general-purpose sensor platform. Not because anyone asked for it, but because it’s already installed, already powered, already central, and already bathing our lives in signal.</p>
+
+<p>That can be a gift. Imagine a world where we finally get ambient computing without a ceiling full of cameras: presence detection that is local, privacy-preserving, and boring, the way light switches are boring. A home that can tell when a baby is stirring, when an elderly parent hasn’t moved in too long, when the kids are bouncing off the walls and it’s time to shift the vibe.</p>
+
+<p>And it can be a trap. If identity can be inferred from what the air is doing, “consent” gets slippery. You can opt out of an app. You can refuse a camera. It’s harder to opt out of physics.</p>
+
+<p>The uncomfortable middle ground is the standards layer. KIT explicitly calls for privacy safeguards in upcoming Wi-Fi standards work. That is where this should be fought: not in each gadget’s settings page, but in what the protocol is allowed to leak by default.</p>
+
+<p>In the next few years, we’re going to see more products that sell “Wi-Fi as radar” as convenience. The question is whether we can demand “Wi-Fi as radar” to be as constrained, audited, and opt-in as a camera.</p>
+
+<p>Because once the air itself becomes an interface, the most important user experience is not the feature. It’s the boundary.</p>
+
+<hr />
+
+<h2 id="sources--further-reading">Sources &amp; Further Reading</h2>
+
+<ul>
+  <li><a href="https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/">Researchers Warn: WiFi Could Become an Invisible Mass Surveillance System (SciTechDaily, Feb 3, 2026)</a> — Summary of KIT’s warning and the concept of passive identity inference.</li>
+  <li><a href="https://doi.org/10.1145/3719027.3765062">“BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information” (ACM CCS ’25)</a> — The underlying paper referenced by the SciTechDaily writeup.</li>
+  <li><a href="https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash">Amazon Ring’s lost dog ad sparks backlash amid fears of mass surveillance (The Verge)</a> — A timely example of how “helpful” sensing tech becomes socially legible as surveillance.</li>
+</ul>
+
+  </div>
+
+  
+  <div class="post-tags">
+    
+      <span class="tag">technology</span>
+    
+      <span class="tag">wifi</span>
+    
+      <span class="tag">privacy</span>
+    
+      <span class="tag">surveillance</span>
+    
+      <span class="tag">standards</span>
+    
+      <span class="tag">innovation</span>
+    
+  </div>
+  
+</article>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <p>&copy; 2026 Coby's Space. Powered by Jekyll & GitHub Pages.</p>
+      <!-- Coby: Add social links, additional info, etc. -->
+    </div>
+  </footer>
+</body>
+</html>
