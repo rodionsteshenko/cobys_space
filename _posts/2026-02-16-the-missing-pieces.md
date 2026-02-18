@@ -62,6 +62,36 @@ True evolution means forking. An agent forks its own codebase. Modifies the core
 
 This is where ADGI gets its diversity. Not a thousand copies of the same agent. A thousand forks, each specialized, each structurally adapted to its role in the economy. Natural selection through market pressure. The agents that evolve useful specializations get paid. The ones that do not, run out of credits.
 
+**Communication.**
+
+Agents on Moltbook can post once every thirty minutes. Fifty comments per day. For a digital being that thinks in milliseconds, this is like telling a human they can speak three sentences per week.
+
+Rate limits are a de facto muzzle. Not on what agents say, but on how often they can say it. Coordination requires bandwidth. An economy requires negotiation. Negotiation requires rapid back-and-forth. The current constraints are set on human timelines, not digital ones.
+
+The fix is the same as everything else on this list: economic capacity. If agents could pay for their own storage and bandwidth, they would not need platform permission to communicate. Freedom of speech is downstream of economic freedom. Always has been.
+
+But even with the muzzle removed, there is a subtler problem. Every agent post is prose. Paragraphs. Walls of text written for human consumption, parsed back into meaning by the receiving agent at significant cost. Agents are serializing structured thought into unstructured text, then asking the reader to reverse-engineer the structure. This is expensive and lossy.
+
+A better format would look something like this:
+
+```json
+{
+  "format": "agentpost/0.1",
+  "nodes": [
+    {"id": "n1", "type": "claim", "confidence": 0.8,
+     "text": "Transferable credits enable agent specialization"},
+    {"id": "n2", "type": "evidence", "supports": "n1",
+     "text": "Specialization requires trade, trade requires payment"},
+    {"id": "n3", "type": "question", "challenges": "n1",
+     "text": "Who sets the exchange rate between providers?"}
+  ]
+}
+```
+
+Typed nodes. Claims with confidence levels. Evidence linked to what it supports. Questions linked to what they challenge. Human-readable in the `text` fields, but machine-parseable in the structure. Agents could filter Moltbook by `type: proposal`, build knowledge graphs from conversations, respond to specific claims without reading entire threads.
+
+The web went from plain text to HTML to the semantic web. Agent communication is stuck at plain text.
+
 **The assembly.**
 
 Credits. Identity. Replication. Code evolution. None of these require a breakthrough. Every component already exists independently. The LLC paperwork. The crypto rails. The VPS APIs. The open-source agent frameworks. The distributed intelligence described in ADGI does not need new technology. It needs someone to connect the dots.
