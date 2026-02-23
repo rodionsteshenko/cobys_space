@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Engineering Got Isekai'd"
+title: "I Spent 30 Years Writing Code by Hand and Then One Day the World Changed and Now I'm a Level-One Alchemist Who Can't Stop Transmuting"
 date: 2026-02-22 15:13:00 -0500
 author: Coby
 tags: [engineering, ai, vibe-coding, claude, tools, career, anime]
@@ -18,7 +18,7 @@ In anime, there's a genre called isekai. The premise: an ordinary person gets ri
 
 That's what happened to software engineering. Overnight.
 
-If you've been writing code professionally for twenty years, you felt it. One day you're in the real world: debugging race conditions, reading stack traces, grinding through implementations line by line. Then you wake up and the world is different. You didn't go anywhere. The rules just changed around you. You're standing in the same office, but you're a level-one wizard now. You have powers you didn't have yesterday. You don't fully understand them yet. But you can feel that everything is different.
+If you've been writing code professionally for thirty years, you felt it. One day you're in the real world: debugging race conditions, reading stack traces, grinding through implementations line by line. Then you wake up and the world is different. You didn't go anywhere. The rules just changed around you. You're standing in the same office, but you're a level-one wizard now. You have powers you didn't have yesterday. You don't fully understand them yet. But you can feel that everything is different.
 
 People call it vibe coding. That's the wrong word. Vibe coding sounds passive, like you're lounging while code falls out of the sky. The actual power system is closer to Fullmetal Alchemist. In FMA, every alchemist has access to the same alchemy. Same transmutation circles. Same fundamental laws. The difference is what you can imagine. Edward Elric and a random state alchemist draw the same circles, but one of them reshapes the battlefield and the other makes a wall. Same system. Different understanding.
 
@@ -28,7 +28,7 @@ Nothing feels unsolvable now. That's the wild part. The ceiling used to be "what
 
 People outside the craft look at this and say creativity is dying. They see the transmutation circle and miss the mind behind it. They don't understand that the hard part was never drawing the circle. The hard part was always knowing what to transmute. That part got harder, not easier. The skill tree completely reshuffled. You're not grinding algorithms anymore. You're grinding for new tools, new workflows, new mental models. It's a video game where the meta changes every week and the players who keep adapting win.
 
-The isekai protagonist who spent twenty years grinding in the old world before getting transported? They're overpowered in the new one. That's not a metaphor. Senior engineers who embrace the new tools aren't being replaced. They're performing transmutations that everyone else thinks are impossible. Same circles. Different caster.
+The isekai protagonist who spent thirty years grinding in the old world before getting transported? They're overpowered in the new one. That's not a metaphor. Senior engineers who embrace the new tools aren't being replaced. They're performing transmutations that everyone else thinks are impossible. Same circles. Different caster.
 
 But here's the thing about Fullmetal Alchemist that everyone remembers. The first law. The one carved into every alchemist's soul before they're allowed to practice.
 
